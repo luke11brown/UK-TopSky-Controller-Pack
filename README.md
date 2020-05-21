@@ -3,9 +3,13 @@
 A controller pack for VATSIM UK Enroute Controllers includidng TopSky, vSMR and UK controller plugins
 
 VATSIM UK - http://vatsim.uk
+
 EuroScope - http://euroScope.hu
+
 TopSky Plugin - https://vatsim-scandinavia.org/forums/forum/54-plugins
+
 vSMR Plugin - https://github.com/pierr3/vSMR
+
 UK Controller Plugin - https://github.com/VATSIM-UK/uk-controller-plugin
 
 ### Prerequisites
