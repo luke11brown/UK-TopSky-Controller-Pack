@@ -12,6 +12,12 @@ vSMR Plugin - https://github.com/pierr3/vSMR
 
 UK Controller Plugin - https://github.com/VATSIM-UK/uk-controller-plugin
 
+## Why should I use this pack?
+
+- Realistic rendition of the iFACTS system in use at LACC
+- Set up for users with 1 or 2 screens available
+- TopSky plugin including MTCD, CPDLC/PDC (Hoppie), Primary Radra Raw Video, Automatic selection of RMA's dependant upon runway in use.
+
 ### Prerequisites
 
 EuroScope
@@ -19,6 +25,8 @@ EuroScope
 ### Installing
 
 Place the UK-TopSky folder in you Documents\EuroScope folder. Open one of the provided PRF files in EuroScope and voila!
+
+For further information regarding the features of the various plugins in use, refer to the wiki.
 
 ## Contributing
 
@@ -37,4 +45,10 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 ## Acknowledgments
 
 Arvid - for introducing me to the wonders of TopSky
-Chris/Harry - I nicked some Gihub bits for the readme and contribution guide
+
+Chris/Harry - I nicked some Github bits for the readme and contribution guide
+
+Chad - Symbology Settings
+
+Sam - NERL radar data
+
