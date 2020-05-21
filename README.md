@@ -50,5 +50,5 @@ Chris/Harry - I nicked some Github bits for the readme and contribution guide
 
 Chad - Symbology Settings
 
-Sam White - NERL radar data
+Sam - NERL radar data
 
