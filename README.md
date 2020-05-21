@@ -45,4 +45,5 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 ## Acknowledgments
 
 Arvid - for introducing me to the wonders of TopSky
+
 Chris/Harry - I nicked some Gihub bits for the readme and contribution guide
