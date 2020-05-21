@@ -26,6 +26,8 @@ EuroScope
 
 Place the UK-TopSky folder in you Documents\EuroScope folder. Open one of the provided PRF files in EuroScope and voila!
 
+For further information regarding the features of the various plugins in use, refer to the wiki.
+
 ## Contributing
 
 Please read [Contributing.md](https://github.com/luke11brown/UK-TopSky-Controller-Pack/blob/master/Contributing.md) for details on our code of conduct, and the process for submitting pull requests to us.
