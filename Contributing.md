@@ -1,6 +1,6 @@
 # Contributor license agreement
 
-By submitting code as an individual you agree that anyone use your ammendments, fixes, patches, changes, modifications, submissions and creations in the production of this project and that the ownership of your submissions transfers to the project in its' entirety.
+By submitting code as an individual you agree that anyone may use your ammendments, fixes, patches, changes, modifications, submissions and creations in the production of this project and that the ownership of your submissions transfers to the project in its' entirety.
 ## Issue Tracking
 
 When submitting an issue, there's a few guidelines we'd ask you to respect to make it easier to manage (and for others to understand):
