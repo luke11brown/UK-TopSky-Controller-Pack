@@ -12,7 +12,7 @@ Settings	SettingsfileSIL	UK-TopSky\Data\Settings\Lists.txt
 Settings	SettingsfileSYMBOLOGY	UK-TopSky\Data\Settings\Local\Birmingham\APP_Symbology.txt
 Settings	SettingsfileTAGS	UK-TopSky\Data\Settings\Tags.txt
 Settings	SettingsfileVCCS	UK-TopSky\Data\Settings\VCCS_Midlands.txt
-Settings	sector	UK-TopSky\Data\Sector\UK_2020_02.sct
+Settings	sector	UK-TopSky\Data\Sector\UK_2020_06.sct
 Settings	alias	UK-TopSky\Data\Alias\AC_Alias.txt
 Settings	SectorFileProviderDescriptor	UK-TopSky\Data\Sector\VATUK_SectorFileProviderDescriptor.txt
 RecentFiles	Recent1	UK-TopSky\Data\ASR\Birmingham\Birmingham Radar_2.asr
@@ -25,3 +25,11 @@ ASRFastKeys	2	UK-TopSky\Data\ASR\Birmingham\Birmingham Radar_2.asr
 ASRFastKeys	3	UK-TopSky\Data\ASR\Birmingham\Birmingham Radar_3.asr
 ASRFastKeys	4	UK-TopSky\Data\ASR\Birmingham\Birmingham Radar_4.asr
 ASRFastKeys	5	UK-TopSky\Data\ASR\Birmingham\Birmingham SMR.asr
+Plugins	Plugin0	UK-TopSky\Data\Plugin\UKControllerPlugin.dll
+Plugins	Plugin0Display0	Standard ES radar screen
+Plugins	Plugin1	UK-TopSky\Data\Plugin\AfvEuroScopeBridge.dll
+Plugins	Plugin1Display0	Standard ES radar screen
+Plugins	Plugin2	UK-TopSky\Data\Plugin\TopSky\TopSky.dll
+Plugins	Plugin2Display0	Standard ES radar screen
+Plugins	Plugin3	UK-TopSky\Data\Plugin\vSMR_1.4.0\vSMR.dll
+Plugins	Plugin3Display0	SMR radar display

@@ -1,8 +1,8 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:UK\Data\Sector\UK_2020_02.sct
-SECTORTITLE:UK_2020_02.sct
+SECTORFILE:UK-TopSky\Data\Sector\UK_2020_06.sct
+SECTORTITLE:UK_2020_06.sct
 ARTCC boundary:EBR08:
 ARTCC boundary:EBR17A:
 ARTCC boundary:EBR17B:
@@ -1431,7 +1431,6 @@ Fixes:XIDIL:symbol
 Fixes:XIGAR:symbol
 Fixes:XOBRO:symbol
 Fixes:XUMAT:symbol
-Geo:Extended centrelines:
 NDBs:EME:symbol
 NDBs:EMW:symbol
 NDBs:NN:symbol
