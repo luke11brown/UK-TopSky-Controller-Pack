@@ -12,7 +12,7 @@ When submitting an issue, there's a few guidelines we'd ask you to respect to ma
 
 ## Pull Requests
 
-If you wish to add a new feature or you spot a bug that you wish to fix, **please open an issue for it first** on the [UK Sector File issue tracker](https://github.com/VATSIM-UK/UK-Sector-File/issues).
+If you wish to add a new feature or you spot a bug that you wish to fix, **please open an issue for it first**
 
 The work-flow for submitting a new pull request is designed to be simple, but also to ensure consistency from **all** contributors:
 * Fork the project into your personal space on GitHub.com.
@@ -20,12 +20,11 @@ The work-flow for submitting a new pull request is designed to be simple, but al
 * Commit your changes.
  * When writing commit messages, consider closing your issues via the commit message (by including "fix #22" or "fixes #22", for example ).
   * The issues will be referenced in the first instance and then closed once the MR is accepted.
-* **Add your changes to the CHANGELOG.md file** - this can be found in [UK-Sector-File/.github/CHANGELOG.md](https://github.com/VATSIM-UK/UK-Sector-File/blob/master/.github/CHANGELOG.md).
 * Push the commit(s) to your fork.
 * Submit a pull request (PR) to the master branch.
 * The PR title should describe the change that has been made.
 * The PR description should confirm what changes have been made and how you know they're correct (with references).
- * Please include any relevant screenshots to prove the changes work - this is particularly important for SMRs. 
+ * Please include any relevant screenshots to prove the changes work
 * Ensure you link any relevant issues in the merge request (you can type hash and the issue ID, eg #275).  Comment on those issues linking back to the PR (you can reference PRs in the same way as issues, using the format #pr-id).
 * Be prepared to answer any questions about your PR when it is reviewed for acceptance.
 
@@ -33,8 +32,6 @@ The work-flow for submitting a new pull request is designed to be simple, but al
 
 # Expectations
 As contributors and maintainers of this project, we pledge to respect all people who contribute through reporting issues, posting feature requests, updating documentation, submitting merge requests or patches, and other activities.
-
-We are committed to making participation in this project a harassment-free experience for everyone, regardless of level of experience, gender, gender identity and expression, sexual orientation, disability, personal appearance, body size, race, ethnicity, age, religion, or favourite aircraft.
 
 Project maintainers have the right and responsibility to remove, edit, or reject comments, commits, code, issues and other contributions that are not aligned to this Code of Conduct.
 
