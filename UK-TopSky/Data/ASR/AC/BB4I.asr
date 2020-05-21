@@ -237,6 +237,7 @@ ARTCC boundary:EGR610B:
 ARTCC boundary:EGR610C:
 ARTCC boundary:EGR610D:
 ARTCC boundary:EGR612:
+ARTCC boundary:EGR704:
 ARTCC boundary:EGR705:
 ARTCC boundary:LFD82:
 ARTCC boundary:LFP26:
@@ -273,6 +274,7 @@ ARTCC high boundary:Holyhead CTA:
 ARTCC high boundary:Irish Sea CTA:
 ARTCC high boundary:La Manche Delegated:
 ARTCC high boundary:Lille TMA:
+ARTCC high boundary:Lincolnshire CTA:
 ARTCC high boundary:London TMA:
 ARTCC high boundary:Manchester TMA:
 ARTCC high boundary:Midlands CTA:
@@ -284,6 +286,7 @@ ARTCC high boundary:Severn CTA:
 ARTCC high boundary:Southern CTA:
 ARTCC high boundary:Strangford CTA:
 ARTCC high boundary:Strumble CTA:
+ARTCC high boundary:Wash CTA:
 ARTCC high boundary:West CTA:
 ARTCC high boundary:Worthing CTA:
 ARTCC low boundary:Channel Islands CTA:
@@ -304,6 +307,8 @@ ARTCC low boundary:EGGW London Luton CTA:
 ARTCC low boundary:EGGW Luton Gate:
 ARTCC low boundary:EGGW Luton LFC:
 ARTCC low boundary:EGHA Compton ATZ:
+ARTCC low boundary:EGHC Lands End ATZ:
+ARTCC low boundary:EGHE Scilly Isles/St Mary's ATZ:
 ARTCC low boundary:EGHF Lee-on-Solent ATZ:
 ARTCC low boundary:EGHG Yeovilton MATZ:
 ARTCC low boundary:EGHH Bournemouth CTR:
@@ -317,27 +322,34 @@ ARTCC low boundary:EGKH Lashenden ATZ:
 ARTCC low boundary:EGKK Gatwick CTA:
 ARTCC low boundary:EGKR Redhill ATZ:
 ARTCC low boundary:EGLC London City CTA:
-ARTCC low boundary:EGLF Farnborough ATZ:
+ARTCC low boundary:EGLD Denham LFA:
+ARTCC low boundary:EGLF Farnborough CTA:
 ARTCC low boundary:EGLK Blackbushe ATZ:
 ARTCC low boundary:EGLL London Heathrow CTR:
+ARTCC low boundary:EGLM White Waltham LFA:
 ARTCC low boundary:EGLS Old Sarum ATZ:
+ARTCC low boundary:EGLW London Heliport LFA:
 ARTCC low boundary:EGMC Southend CTA:
 ARTCC low boundary:EGMD Lydd ATZ:
 ARTCC low boundary:EGNM Leeds Bradford CTA:
 ARTCC low boundary:EGNO Warton ATZ:
 ARTCC low boundary:EGNS Isle of Man CTA:
 ARTCC low boundary:EGNT Newcastle CTA:
-ARTCC low boundary:EGNV Durham Tees Valley CTA:
+ARTCC low boundary:EGNV Teeside CTA:
 ARTCC low boundary:EGNX East Midlands CTA:
+ARTCC low boundary:EGOV Valley MATZ:
 ARTCC low boundary:EGPB Sumburgh CTA:
 ARTCC low boundary:EGPD Aberdeen CTA:
 ARTCC low boundary:EGPF Glasgow CTA:
 ARTCC low boundary:EGPH Edinburgh CTA:
 ARTCC low boundary:EGPK Prestwick CTA:
-ARTCC low boundary:EGQK/EGQS Lossiemouth/Kinloss MATZ:
-ARTCC low boundary:EGQL Leuchars ATZ:
+ARTCC low boundary:EGQK Kinloss MATZ:
+ARTCC low boundary:EGQL Leuchars MATZ:
+ARTCC low boundary:EGQS Lossiemouth MATZ:
 ARTCC low boundary:EGSH Norwich CTA:
 ARTCC low boundary:EGSS London Stansted CTA:
+ARTCC low boundary:EGSY St Athan LFA:
+ARTCC low boundary:EGTF Fairoaks LFA:
 ARTCC low boundary:EGTO Rochester ATZ:
 ARTCC low boundary:EGUB Benson MATZ:
 ARTCC low boundary:EGUW Wattisham MATZ:
@@ -345,12 +357,20 @@ ARTCC low boundary:EGVF Fleetlands ATZ:
 ARTCC low boundary:EGVN Brize Norton CTR:
 ARTCC low boundary:EGVO Odiham MATZ:
 ARTCC low boundary:EGVP Middle Wallop MATZ:
+ARTCC low boundary:EGXC Coningsby MATZ:
+ARTCC low boundary:EGYD Cranwell MATZ:
+ARTCC low boundary:EGYM Marham MATZ:
 ARTCC low boundary:EIDW Dublin CTA:
 ARTCC low boundary:LFAT Le Touquet CTR:
 ARTCC low boundary:LFOH Le Havre CTR:
+ARTCC low boundary:LFQQ Lille CTR:
 ARTCC low boundary:LFRC Cherbourg CTR:
+ARTCC low boundary:LFRG Deauville CTR:
 ARTCC low boundary:LFRK Caen Carpiquet CTR:
+ARTCC low boundary:LONDONRDR:
+ARTCC low boundary:SHMOCKLINE:
 ARTCC low boundary:Solent CTA:
+ARTCC low boundary:STATHANLF:
 ARTCC low boundary:XYLINE:
 Fixes:ABAPO:name
 Fixes:ABAPO:symbol
@@ -584,8 +604,6 @@ Fixes:BARMI:name
 Fixes:BARMI:symbol
 Fixes:BAROS:name
 Fixes:BAROS:symbol
-Fixes:BARSU:name
-Fixes:BARSU:symbol
 Fixes:BARTN:name
 Fixes:BARTN:symbol
 Fixes:BATLI:name
@@ -779,8 +797,6 @@ Fixes:DENOG:symbol
 Fixes:DESIG:name
 Fixes:DESIG:symbol
 Fixes:DEVAL:name
-Fixes:DESNA:symbol
-Fixes:DESNA:name
 Fixes:DEVAL:symbol
 Fixes:DEVBI:name
 Fixes:DEVBI:symbol
@@ -788,9 +804,7 @@ Fixes:DEVOM:name
 Fixes:DEVOM:symbol
 Fixes:DEXEN:name
 Fixes:DEXEN:symbol
-Fixes:DIBLI:name
 Fixes:DIBAL:symbol
-Fixes:DIBAL:name
 Fixes:DIBLI:symbol
 Fixes:DIDEL:name
 Fixes:DIDEL:symbol
@@ -820,8 +834,6 @@ Fixes:DINIM:name
 Fixes:DINIM:symbol
 Fixes:DIPSO:name
 Fixes:DIPSO:symbol
-Fixes:DISAL:name
-Fixes:DISAL:symbol
 Fixes:DISIT:name
 Fixes:DISIT:symbol
 Fixes:DISVO:name
@@ -1110,8 +1122,6 @@ Fixes:GONAN:name
 Fixes:GONAN:symbol
 Fixes:GONUT:name
 Fixes:GONUT:symbol
-Fixes:GOPAN:name
-Fixes:GOPAN:symbol
 Fixes:GOPOD:name
 Fixes:GOPOD:symbol
 Fixes:GOREV:name
@@ -1866,8 +1876,6 @@ Fixes:PETOX:name
 Fixes:PETOX:symbol
 Fixes:PETUK:name
 Fixes:PETUK:symbol
-Fixes:PEVAD:name
-Fixes:PEVAD:symbol
 Fixes:PHILI:name
 Fixes:PHILI:symbol
 Fixes:PIBUG:name
@@ -1966,8 +1974,6 @@ Fixes:RINIS:name
 Fixes:RINIS:symbol
 Fixes:RINTI:name
 Fixes:RINTI:symbol
-Fixes:RIPIL:name
-Fixes:RIPIL:symbol
 Fixes:RIPNO:name
 Fixes:RIPNO:symbol
 Fixes:RISDU:name
@@ -2564,10 +2570,6 @@ VORs:CPT:name
 VORs:CPT:symbol
 VORs:CRK:name
 VORs:CRK:symbol
-VORs:CSL:name
-VORs:CSL:symbol
-VORs:CTM:name
-VORs:CTM:symbol
 VORs:CWZ:name
 VORs:CWZ:symbol
 VORs:DCS:name
@@ -2626,8 +2628,6 @@ VORs:LON:name
 VORs:LON:symbol
 VORs:LYD:name
 VORs:LYD:symbol
-VORs:LYE:name
-VORs:LYE:symbol
 VORs:MAC:name
 VORs:MAC:symbol
 VORs:MAM:name
@@ -2710,8 +2710,6 @@ VORs:WIT:name
 VORs:WIT:symbol
 VORs:WTZ:name
 VORs:WTZ:symbol
-VORs:YVL:name
-VORs:YVL:symbol
 SHOWC:1
 SHOWSB:0
 BELOW:200
