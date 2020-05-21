@@ -237,6 +237,7 @@ ARTCC boundary:EGR610B:
 ARTCC boundary:EGR610C:
 ARTCC boundary:EGR610D:
 ARTCC boundary:EGR612:
+ARTCC boundary:EGR704:
 ARTCC boundary:EGR705:
 ARTCC boundary:LFD82:
 ARTCC boundary:LFP26:
@@ -273,6 +274,7 @@ ARTCC high boundary:Holyhead CTA:
 ARTCC high boundary:Irish Sea CTA:
 ARTCC high boundary:La Manche Delegated:
 ARTCC high boundary:Lille TMA:
+ARTCC high boundary:Lincolnshire CTA:
 ARTCC high boundary:London TMA:
 ARTCC high boundary:Manchester TMA:
 ARTCC high boundary:Midlands CTA:
@@ -284,6 +286,7 @@ ARTCC high boundary:Severn CTA:
 ARTCC high boundary:Southern CTA:
 ARTCC high boundary:Strangford CTA:
 ARTCC high boundary:Strumble CTA:
+ARTCC high boundary:Wash CTA:
 ARTCC high boundary:West CTA:
 ARTCC high boundary:Worthing CTA:
 ARTCC low boundary:Channel Islands CTA:
@@ -304,6 +307,8 @@ ARTCC low boundary:EGGW London Luton CTA:
 ARTCC low boundary:EGGW Luton Gate:
 ARTCC low boundary:EGGW Luton LFC:
 ARTCC low boundary:EGHA Compton ATZ:
+ARTCC low boundary:EGHC Lands End ATZ:
+ARTCC low boundary:EGHE Scilly Isles/St Mary's ATZ:
 ARTCC low boundary:EGHF Lee-on-Solent ATZ:
 ARTCC low boundary:EGHG Yeovilton MATZ:
 ARTCC low boundary:EGHH Bournemouth CTR:
@@ -317,27 +322,34 @@ ARTCC low boundary:EGKH Lashenden ATZ:
 ARTCC low boundary:EGKK Gatwick CTA:
 ARTCC low boundary:EGKR Redhill ATZ:
 ARTCC low boundary:EGLC London City CTA:
-ARTCC low boundary:EGLF Farnborough ATZ:
+ARTCC low boundary:EGLD Denham LFA:
+ARTCC low boundary:EGLF Farnborough CTA:
 ARTCC low boundary:EGLK Blackbushe ATZ:
 ARTCC low boundary:EGLL London Heathrow CTR:
+ARTCC low boundary:EGLM White Waltham LFA:
 ARTCC low boundary:EGLS Old Sarum ATZ:
+ARTCC low boundary:EGLW London Heliport LFA:
 ARTCC low boundary:EGMC Southend CTA:
 ARTCC low boundary:EGMD Lydd ATZ:
 ARTCC low boundary:EGNM Leeds Bradford CTA:
 ARTCC low boundary:EGNO Warton ATZ:
 ARTCC low boundary:EGNS Isle of Man CTA:
 ARTCC low boundary:EGNT Newcastle CTA:
-ARTCC low boundary:EGNV Durham Tees Valley CTA:
+ARTCC low boundary:EGNV Teeside CTA:
 ARTCC low boundary:EGNX East Midlands CTA:
+ARTCC low boundary:EGOV Valley MATZ:
 ARTCC low boundary:EGPB Sumburgh CTA:
 ARTCC low boundary:EGPD Aberdeen CTA:
 ARTCC low boundary:EGPF Glasgow CTA:
 ARTCC low boundary:EGPH Edinburgh CTA:
 ARTCC low boundary:EGPK Prestwick CTA:
-ARTCC low boundary:EGQK/EGQS Lossiemouth/Kinloss MATZ:
-ARTCC low boundary:EGQL Leuchars ATZ:
+ARTCC low boundary:EGQK Kinloss MATZ:
+ARTCC low boundary:EGQL Leuchars MATZ:
+ARTCC low boundary:EGQS Lossiemouth MATZ:
 ARTCC low boundary:EGSH Norwich CTA:
 ARTCC low boundary:EGSS London Stansted CTA:
+ARTCC low boundary:EGSY St Athan LFA:
+ARTCC low boundary:EGTF Fairoaks LFA:
 ARTCC low boundary:EGTO Rochester ATZ:
 ARTCC low boundary:EGUB Benson MATZ:
 ARTCC low boundary:EGUW Wattisham MATZ:
@@ -345,12 +357,20 @@ ARTCC low boundary:EGVF Fleetlands ATZ:
 ARTCC low boundary:EGVN Brize Norton CTR:
 ARTCC low boundary:EGVO Odiham MATZ:
 ARTCC low boundary:EGVP Middle Wallop MATZ:
+ARTCC low boundary:EGXC Coningsby MATZ:
+ARTCC low boundary:EGYD Cranwell MATZ:
+ARTCC low boundary:EGYM Marham MATZ:
 ARTCC low boundary:EIDW Dublin CTA:
 ARTCC low boundary:LFAT Le Touquet CTR:
 ARTCC low boundary:LFOH Le Havre CTR:
+ARTCC low boundary:LFQQ Lille CTR:
 ARTCC low boundary:LFRC Cherbourg CTR:
+ARTCC low boundary:LFRG Deauville CTR:
 ARTCC low boundary:LFRK Caen Carpiquet CTR:
+ARTCC low boundary:LONDONRDR:
+ARTCC low boundary:SHMOCKLINE:
 ARTCC low boundary:Solent CTA:
+ARTCC low boundary:STATHANLF:
 ARTCC low boundary:XYLINE:
 Fixes:ABAPO:symbol
 Fixes:ABBOT:symbol
@@ -468,7 +488,6 @@ Fixes:BAPAG:symbol
 Fixes:BARKU:symbol
 Fixes:BARMI:symbol
 Fixes:BAROS:symbol
-Fixes:BARSU:symbol
 Fixes:BARTN:symbol
 Fixes:BATLI:symbol
 Fixes:BATSU:symbol
@@ -586,7 +605,6 @@ Fixes:DIMOX:symbol
 Fixes:DINBI:symbol
 Fixes:DINIM:symbol
 Fixes:DIPSO:symbol
-Fixes:DISAL:symbol
 Fixes:DISIT:symbol
 Fixes:DISVO:symbol
 Fixes:DITOB:symbol
@@ -731,7 +749,6 @@ Fixes:GOMOT:symbol
 Fixes:GOMUP:symbol
 Fixes:GONAN:symbol
 Fixes:GONUT:symbol
-Fixes:GOPAN:symbol
 Fixes:GOPOD:symbol
 Fixes:GOREV:symbol
 Fixes:GORLO:symbol
@@ -1109,7 +1126,6 @@ Fixes:PERUP:symbol
 Fixes:PETIL:symbol
 Fixes:PETOX:symbol
 Fixes:PETUK:symbol
-Fixes:PEVAD:symbol
 Fixes:PHILI:symbol
 Fixes:PIBUG:symbol
 Fixes:PIBUX:symbol
@@ -1159,7 +1175,6 @@ Fixes:RIMVU:symbol
 Fixes:RINGA:symbol
 Fixes:RINIS:symbol
 Fixes:RINTI:symbol
-Fixes:RIPIL:symbol
 Fixes:RIPNO:symbol
 Fixes:RISDU:symbol
 Fixes:RISIN:symbol
@@ -1455,6 +1470,7 @@ Free Text:Airspace Bases\3500:freetext
 Free Text:Airspace Bases\3500:freetext
 Free Text:Airspace Bases\3500:freetext
 Free Text:Airspace Bases\3500:freetext
+Free Text:Airspace Bases\3500:freetext
 Free Text:Airspace Bases\4000:freetext
 Free Text:Airspace Bases\4000:freetext
 Free Text:Airspace Bases\4500:freetext
@@ -1475,7 +1491,8 @@ Free Text:Airspace Bases\4500:freetext
 Free Text:Airspace Bases\4500:freetext
 Free Text:Airspace Bases\4500:freetext
 Free Text:Airspace Bases\4500:freetext
-Free Text:Airspace Bases\5000:freetext
+Free Text:Airspace Bases\4500:freetext
+Free Text:Airspace Bases\4500:freetext
 Free Text:Airspace Bases\5000:freetext
 Free Text:Airspace Bases\5500:freetext
 Free Text:Airspace Bases\5500:freetext
@@ -1549,7 +1566,6 @@ Free Text:Airspace Bases\FL135:freetext
 Free Text:Airspace Bases\FL135:freetext
 Free Text:Airspace Bases\FL135:freetext
 Free Text:Airspace Bases\FL135:freetext
-Free Text:Airspace Bases\FL145:freetext
 Free Text:Airspace Bases\FL145:freetext
 Free Text:Airspace Bases\FL145:freetext
 Free Text:Airspace Bases\FL145:freetext
@@ -1651,6 +1667,8 @@ Free Text:Airspace Bases\FL75:freetext
 Free Text:Airspace Bases\FL75:freetext
 Free Text:Airspace Bases\FL75:freetext
 Free Text:Airspace Bases\FL75:freetext
+Free Text:Airspace Bases\FL85:freetext
+Free Text:Airspace Bases\FL85:freetext
 Free Text:Airspace Bases\FL85:freetext
 Free Text:Airspace Bases\FL85:freetext
 Free Text:Airspace Bases\FL85:freetext
@@ -1832,7 +1850,6 @@ Free Text:Solent Airspace Bases\2000':freetext
 Free Text:Solent Airspace Bases\2000':freetext
 Free Text:Solent Airspace Bases\2500':freetext
 Free Text:Solent Airspace Bases\2500':freetext
-Free Text:Solent Airspace Bases\2500':freetext
 Free Text:Solent Airspace Bases\3000':freetext
 Free Text:Solent Airspace Bases\3500':freetext
 Free Text:Solent Airspace Bases\3500':freetext
@@ -1865,8 +1882,6 @@ VORs:COA:symbol
 VORs:CON:symbol
 VORs:CPT:symbol
 VORs:CRK:symbol
-VORs:CSL:symbol
-VORs:CTM:symbol
 VORs:CWZ:symbol
 VORs:DCS:symbol
 VORs:DET:symbol
@@ -1896,7 +1911,6 @@ VORs:LKH:symbol
 VORs:LND:symbol
 VORs:LON:symbol
 VORs:LYD:symbol
-VORs:LYE:symbol
 VORs:MAC:symbol
 VORs:MAM:symbol
 VORs:MAY:symbol
@@ -1938,7 +1952,6 @@ VORs:WAL:symbol
 VORs:WIK:symbol
 VORs:WIT:symbol
 VORs:WTZ:symbol
-VORs:YVL:symbol
 SHOWC:1
 SHOWSB:0
 BELOW:200
@@ -1957,6 +1970,7 @@ PLUGIN:UK Controller Plugin:CountdownScreenPosX:72
 PLUGIN:UK Controller Plugin:CountdownScreenPosY:44
 PLUGIN:UK Controller Plugin:DisplayCountdown:1
 PLUGIN:UK Controller Plugin:DisplayMinStack:1
+PLUGIN:UK Controller Plugin:DisplayRegionalPressures:1
 PLUGIN:UK Controller Plugin:HistoryTrailAntiAlias:1
 PLUGIN:UK Controller Plugin:HistoryTrailColour:255,130,20
 PLUGIN:UK Controller Plugin:HistoryTrailDegrade:1
@@ -1967,5 +1981,11 @@ PLUGIN:UK Controller Plugin:HistoryTrailLength:15
 PLUGIN:UK Controller Plugin:HistoryTrailMaxAltitudeFilter:99999
 PLUGIN:UK Controller Plugin:HistoryTrailMinAltitudeFilter:99999
 PLUGIN:UK Controller Plugin:HistoryTrailType:0
+PLUGIN:UK Controller Plugin:holdDisplayVisibility:1
 PLUGIN:UK Controller Plugin:MinStackScreenPosX:100
 PLUGIN:UK Controller Plugin:MinStackScreenPosY:100
+PLUGIN:UK Controller Plugin:RegionalPressureScreenPosX:100
+PLUGIN:UK Controller Plugin:RegionalPressureScreenPosY:100
+PLUGIN:UK Controller Plugin:selectedHoldProfile:0
+PLUGIN:UK Controller Plugin:SelectedMinStack:tma.LTMA;tma.MTMA;tma.STMA
+PLUGIN:UK Controller Plugin:SelectedRegionalPressures:ASR_LONDON;ASR_SCOTTISH
