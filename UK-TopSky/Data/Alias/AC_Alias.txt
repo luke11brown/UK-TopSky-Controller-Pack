@@ -5,6 +5,35 @@ Last Updated:	2016-03-20
 ========================================================
 
 ========================================================
+Noobs
+========================================================
+.prc For more info on the basics of VATSIM, please use the plethora of resources available to you to learn http://vats.im/prc is a good start!
+.charts Charts for the UK (and other countries) are available for FREE at http://chartfox.org
+.ini You've busted the intial altitude of the SID, in future, please refer to the relevant chart and comply with all vertical resticitions of the SID until instructed otherwise. London is a busy area, and compliance with stop altitudes is required to assure separation.
+.iniall All pilots are politely reminded that an "inital" altitude may not be given with a clearance. The pilot is still required to comply with all vertical limits of a SID until instructed otherwise. It is important that all pilots review the chart for the SID they are cleared for.
+.srd You can find standard UK routings (domestic and to FIR exit points) in the Standard Route Document http://vats.im/srd
+.fpl There is no flight plan for your callsign, please file one. I suggest either http://simbrief.com or http://edi-gla.co.uk 
+.modec It is a VATSIM CoC requirement (B4) for you to Squawk mode C whilst in the air. Please do so now. If you don't know how to do this, please refer to your pilot client documentation.
+.paused You seem to be paused mid-air. It is against the VATSIM CoC (B2). Please resume normal flight or disconnect.
+.accel Whilst time acceleration is permitted in uncontrolled airspace, it isn't whilst under control of ATC. Please return to normal simulation rate or disconnect. CoC B9 refers.
+.mong The VATSIM CoC (B8) now REQUIRES pilots to be able to comply with ATC Instructions, such as flying headings, speeds and levels. It seems you are unable to comply or are knowingly non-compliant. If you continue, I will simply call a supervisor to remove you from the network.
+.mic $aircraft You have an open mic, please check your Push to Talk key/button.
+.notme I don't cover that airspace, for a description of the airspace I do cover, visit http://vatsim.uk/area-sectors
+
+========================================================
+Holding
+========================================================
+.hlam Lambourne (LAM) hold details: Inbound course 263. Left hand turns. 1 minute legs, max speed 220 kts. (1.5 minute legs, max speed 240 kts at FL150 and above).
+.hbnn Bovingdon (BNN) hold details: Inbound course 117. Right hand turns. 1 minute legs, max speed 220 kts. (1.5 minute legs, max speed 240 kts at FL150 only).
+.hbig Biggin (BIG) hold details: Inbound course 303. Right hand turns. 1 minute legs, max speed 220 kts. (1.5 minute legs, max speed 240 kts at FL150 only).
+.hock Ockham (OCK) hold details: Inbound course 329. Right hand turns. 1 minute legs, max speed 220 kts. (1.5 minute legs, max speed 240 kts at FL150 only).
+.hbraso BRASO hold details: Inbound course 263. Left hand turns. 1.5 minute legs. (FL180-FL200 max speed 240 kts. FL210-FL240 max speed 265 kts).
+.hlogan LOGAN hold details: Inbound course 289. Left hand turns. 1.5 minute legs. (FL250-FL340 max speed 265 kts).
+.hwco Westcott (WCO) hold details: Inbound course 154. Left hand turns. 1.5 minute legs, max speed 240 kts.
+.hhon Honiley (HON) hold details: Inbound course 146. Right hand turns. 1.5 minute legs. (FL200 max speed 240 kts. FL210-FL340 max speed 265 kts).
+.htiger TIGER hold details: Inbound course 316. Right hand turns. 1.5 minute legs. (FL150-FL200 max speed 240 kts. FL210-FL340 max speed 265 kts). 
+
+========================================================
 Generic
 ========================================================
 
@@ -41,6 +70,7 @@ Handoffs
 .rh Report your heading to $radioname($1) ($atccallsign($1)) $freq($1)
 .rs Report your speed to $radioname($1) ($atccallsign($1)) $freq($1)
 .rhs Report your heading and speed to $radioname($1) ($atccallsign($1)) $freq($1)
+.rl Report your cleared level to $radioname($1) ($atccallsign($1)) $freq($1)
 .fc Freecall $radioname($1) ($atccallsign($1)) $freq($1)
 .mon Monitor $radioname($1) ($atccallsign($1)) $freq($1)
 
@@ -138,6 +168,8 @@ Departure
 .rcq Readback correct, QNH $altim($dep)
 .ready Readback correct, report ready
 .readyq Readback correct, QNH $altim($dep), report ready
+
+.pdc .msg $aircraft $dep PDC - $time - INFORMATION $atiscode($dep). $aircraft CLRD TO $arr OFF $deprwy VIA $sid SQUAWK $squawk. NEXT FREQ $com. REPORT ACFT TYPE AND STAND NUMBER ON $com WHEN READY FOR PUSHBACK. PDC READBACK NOT RQRD.
 
 ========================================================
 Ground Movement

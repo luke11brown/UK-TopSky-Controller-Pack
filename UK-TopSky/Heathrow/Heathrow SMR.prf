@@ -1,22 +1,22 @@
-Settings	SettingsfilePLUGINS	UK\Data\Settings\Local\Heathrow\Plugins.txt
-Settings	SettingsfilePROFILE	UK\Data\Settings\Local\Heathrow\Profiles.txt
-Settings	SettingsfileSCREEN	UK\Data\Settings\TC_APP\TC_APP_Screen.txt
-Settings	SettingsfileVOICE	UK\Data\Settings\Local\Heathrow\Voice.txt
-Settings	Settingsfile	UK\Data\Settings\TC_APP\TC_APP_General.txt
-Settings	SettingsfileARR	UK\Data\Settings\TC_APP\TC_APP_AL_SMR.txt
-Settings	SettingsfileCONFLICT	UK\Data\Settings\TC_APP\TC_APP_C.txt
-Settings	SettingsfileDEP	UK\Data\Settings\TC_APP\TC_APP_DL.txt
-Settings	SettingsfileFP	UK\Data\Settings\TC_APP\TC_APP_FPL.txt
-Settings	SettingsfileSEL	UK\Data\Settings\TC_APP\TC_APP_SEL_SMR.txt
-Settings	SettingsfileSIL	UK\Data\Settings\TC_APP\TC_APP_SIL_SMR.txt
-Settings	SettingsfileSYMBOLOGY	UK\Data\Settings\TC_APP\TC_APP_Symbology.txt
-Settings	SettingsfileTAGS	UK\Data\Settings\Tags.txt
-Settings	SettingsfileVCCS	UK\Data\Settings\VCCS_South.txt
-Settings	sector	UK\Data\Sector\UK_2020_02.sct
-Settings	alias	UK\Data\Alias\AC_Alias.txt
-Settings	SectorFileProviderDescriptor	UK\Data\Sector\VATUK_SectorFileProviderDescriptor.txt
-RecentFiles	Recent1	UK\Data\ASR\Heathrow\Heathrow SMR.asr
-ASRFastKeys	1	UK\Data\ASR\Heathrow\Heathrow SMR.asr
+Settings	SettingsfilePLUGINS	UK-TopSky\Data\Settings\Local\Heathrow\Plugins.txt
+Settings	SettingsfilePROFILE	UK-TopSky\Data\Settings\Local\Heathrow\Profiles.txt
+Settings	SettingsfileSCREEN	UK-TopSky\Data\Settings\TC_APP\TC_APP_Screen.txt
+Settings	SettingsfileVOICE	UK-TopSky\Data\Settings\Local\Heathrow\Voice.txt
+Settings	Settingsfile	UK-TopSky\Data\Settings\TC_APP\TC_APP_General.txt
+Settings	SettingsfileARR	UK-TopSky\Data\Settings\TC_APP\TC_APP_AL_SMR.txt
+Settings	SettingsfileCONFLICT	UK-TopSky\Data\Settings\TC_APP\TC_APP_C.txt
+Settings	SettingsfileDEP	UK-TopSky\Data\Settings\TC_APP\TC_APP_DL.txt
+Settings	SettingsfileFP	UK-TopSky\Data\Settings\TC_APP\TC_APP_FPL.txt
+Settings	SettingsfileSEL	UK-TopSky\Data\Settings\TC_APP\TC_APP_SEL_SMR.txt
+Settings	SettingsfileSIL	UK-TopSky\Data\Settings\TC_APP\TC_APP_SIL_SMR.txt
+Settings	SettingsfileSYMBOLOGY	UK-TopSky\Data\Settings\TC_APP\TC_APP_Symbology.txt
+Settings	SettingsfileTAGS	UK-TopSky\Data\Settings\Tags.txt
+Settings	SettingsfileVCCS	UK-TopSky\Data\Settings\VCCS_South.txt
+Settings	sector	UK-TopSky\Data\Sector\UK_2020_02.sct
+Settings	alias	UK-TopSky\Data\Alias\AC_Alias.txt
+Settings	SectorFileProviderDescriptor	UK-TopSky\Data\Sector\VATUK_SectorFileProviderDescriptor.txt
+RecentFiles	Recent1	UK-TopSky\Data\ASR\Heathrow\Heathrow SMR.asr
+ASRFastKeys	1	UK-TopSky\Data\ASR\Heathrow\Heathrow SMR.asr
 LastSession	connecttype	0
 LastSession	facility	0
 LastSession	rating	0
