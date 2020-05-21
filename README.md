@@ -18,7 +18,7 @@ Place the UK-TopSky folder in you Documents\EuroScope folder. Open one of the pr
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [Contributing.md](https://github.com/luke11brown/UK-TopSky-Controller-Pack/blob/master/Contributing.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Authors
 
