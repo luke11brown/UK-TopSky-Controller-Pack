@@ -1,8 +1,8 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:UK\Data\Sector\UK_2020_02.sct
-SECTORTITLE:UK_2020_02.sct
+SECTORFILE:UK-TopSky\Data\Sector\UK_2020_06.sct
+SECTORTITLE:UK_2020_06.sct
 ARTCC boundary:EBR08:
 ARTCC boundary:EBR17A:
 ARTCC boundary:EBR17B:
@@ -2510,12 +2510,8 @@ Fixes:XOBRO:symbol
 Fixes:XOBRO:name
 Fixes:XUMAT:symbol
 Fixes:XUMAT:name
-Geo:Extended centrelines:
 Regions:Uncontrolled airspace:polygon
-Stars:Gatwick RMA Westerlies:
-Stars:Heathrow RMA Westerlies:
 Stars:Luton RMA:
-Stars:Luton Westerly Buffer:
 Stars:Stansted RMA:
 Stars:Thames RMA:
 VORs:ABB:name
@@ -2728,7 +2724,7 @@ SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
-TAGFAMILY:AC
+TAGFAMILY:AC-TopSky
 WINDOWAREA:52.311846:-19.614628:62.187769:11.362237
 PLUGIN:UK Controller Plugin:CountdownScreenPosX:72
 PLUGIN:UK Controller Plugin:CountdownScreenPosY:44
@@ -2742,7 +2738,7 @@ PLUGIN:UK Controller Plugin:HistoryTrailDotSize:4
 PLUGIN:UK Controller Plugin:HistoryTrailFade:1
 PLUGIN:UK Controller Plugin:HistoryTrailLength:15
 PLUGIN:UK Controller Plugin:HistoryTrailMaxAltitudeFilter:99999
-PLUGIN:UK Controller Plugin:HistoryTrailMinAltitudeFilter:0
+PLUGIN:UK Controller Plugin:HistoryTrailMinAltitudeFilter:99999
 PLUGIN:UK Controller Plugin:HistoryTrailType:0
 PLUGIN:UK Controller Plugin:MinStackScreenPosX:100
 PLUGIN:UK Controller Plugin:MinStackScreenPosY:100
