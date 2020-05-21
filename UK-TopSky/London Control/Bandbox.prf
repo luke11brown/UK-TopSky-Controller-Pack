@@ -1,5 +1,5 @@
-Settings	SettingsfilePLUGINS	UK-TopSky\Data\Settings\Local\London\AC_BB_Plugins.txt
-Settings	SettingsfilePROFILE	UK-TopSky\Data\Settings\Local\London\AC_BB_Profiles.txt
+Settings	SettingsfilePLUGINS	UK-TopSky\Data\Settings\Local\London\AC_Plugins.txt
+Settings	SettingsfilePROFILE	UK-TopSky\Data\Settings\Local\London\AC_Profiles.txt
 Settings	SettingsfileSCREEN	UK-TopSky\Data\Settings\AC\AC_Screen.txt
 Settings	SettingsfileVOICE	UK-TopSky\Data\Settings\Voice.txt
 Settings	Settingsfile	UK-TopSky\Data\Settings\AC\AC_General.txt
@@ -12,25 +12,33 @@ Settings	SettingsfileSIL	UK-TopSky\Data\Settings\Lists.txt
 Settings	SettingsfileSYMBOLOGY	UK-TopSky\Data\Settings\AC\ACI_Symbology.txt
 Settings	SettingsfileTAGS	UK-TopSky\Data\Settings\Tags.txt
 Settings	SettingsfileVCCS	UK-TopSky\Data\Settings\VCCS.txt
-Settings	sector	UK-TopSky\Data\Sector\UK_2020_02.sct
+Settings	sector	UK-TopSky\Data\Sector\UK_2020_06.sct
 Settings	alias	UK-TopSky\Data\Alias\AC_Alias.txt
 Settings	AtisFolder	UK-TopSky\Data\ATIS\ATIS.txt
 Settings	SectorFileProviderDescriptor	UK-TopSky\Data\Sector\VATUK_SectorFileProviderDescriptor.txt
-RecentFiles	Recent1	UK-TopSky\Data\ASR\AC_BB\BB2I.asr
-RecentFiles	Recent2	UK-TopSky\Data\ASR\AC_BB\BB1I.asr
-RecentFiles	Recent3	UK-TopSky\Data\ASR\AC_BB\BB3I.asr
-RecentFiles	Recent4	UK-TopSky\Data\ASR\AC_BB\BB4I.asr
-RecentFiles	Recent5	UK-TopSky\Data\ASR\AC_BB\BBG1.asr
-RecentFiles	Recent6	UK-TopSky\Data\ASR\AC_BB\BBG2.asr
-RecentFiles	Recent7	UK-TopSky\Data\ASR\AC_BB\BBG3.asr
-RecentFiles	Recent8	UK-TopSky\Data\ASR\AC_BB\BBG4.asr
-RecentFiles	Recent9	UK-TopSky\Data\ASR\AC_BB\BBG5.asr
-ASRFastKeys	1	UK-TopSky\Data\ASR\AC_BB\BB1I.asr
-ASRFastKeys	2	UK-TopSky\Data\ASR\AC_BB\BB2I.asr
-ASRFastKeys	3	UK-TopSky\Data\ASR\AC_BB\BB3I.asr
-ASRFastKeys	4	UK-TopSky\Data\ASR\AC_BB\BB4I.asr
-ASRFastKeys	5	UK-TopSky\Data\ASR\AC_BB\BBG1.asr
-ASRFastKeys	6	UK-TopSky\Data\ASR\AC_BB\BBG2.asr
-ASRFastKeys	7	UK-TopSky\Data\ASR\AC_BB\BBG3.asr
-ASRFastKeys	8	UK-TopSky\Data\ASR\AC_BB\BBG4.asr
-ASRFastKeys	9	UK-TopSky\Data\ASR\AC_BB\BBG5.asr
+RecentFiles	Recent1	UK-TopSky\Data\ASR\AC\BB2I.asr
+RecentFiles	Recent2	UK-TopSky\Data\ASR\AC\BB1I.asr
+RecentFiles	Recent3	UK-TopSky\Data\ASR\AC\BB3I.asr
+RecentFiles	Recent4	UK-TopSky\Data\ASR\AC\BB4I.asr
+RecentFiles	Recent5	UK-TopSky\Data\ASR\AC\BBG1.asr
+RecentFiles	Recent6	UK-TopSky\Data\ASR\AC\BBG2.asr
+RecentFiles	Recent7	UK-TopSky\Data\ASR\AC\BBG3.asr
+RecentFiles	Recent8	UK-TopSky\Data\ASR\AC\BBG4.asr
+RecentFiles	Recent9	UK-TopSky\Data\ASR\AC\BBG5.asr
+ASRFastKeys	1	UK-TopSky\Data\ASR\AC\BB1I.asr
+ASRFastKeys	2	UK-TopSky\Data\ASR\AC\BB2I.asr
+ASRFastKeys	3	UK-TopSky\Data\ASR\AC\BB3I.asr
+ASRFastKeys	4	UK-TopSky\Data\ASR\AC\BB4I.asr
+ASRFastKeys	5	UK-TopSky\Data\ASR\AC\BBG1.asr
+ASRFastKeys	6	UK-TopSky\Data\ASR\AC\BBG2.asr
+ASRFastKeys	7	UK-TopSky\Data\ASR\AC\BBG3.asr
+ASRFastKeys	8	UK-TopSky\Data\ASR\AC\BBG4.asr
+ASRFastKeys	9	UK-TopSky\Data\ASR\AC\BBG5.asr
+Plugins	Plugin0	UK-TopSky\Data\Plugin\UKControllerPlugin.dll
+Plugins	Plugin0Display0	Standard ES radar screen
+Plugins	Plugin1	UK-TopSky\Data\Plugin\AfvEuroScopeBridge.dll
+Plugins	Plugin1Display0	Standard ES radar screen
+Plugins	Plugin2	UK-TopSky\Data\Plugin\TopSky\TopSky.dll
+Plugins	Plugin2Display0	Standard ES radar screen
+Plugins	Plugin3	UK-TopSky\Data\Plugin\vSMR_1.4.0\vSMR.dll
+Plugins	Plugin3Display0	SMR radar display
