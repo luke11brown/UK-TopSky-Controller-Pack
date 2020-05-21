@@ -1,0 +1,207 @@
+VOICE
+AG:AC Worthing:129.420:old.voice.notused:lon_s_ctr
+AG:AC Dover:134.900:old.voice.notused:lon_d_ctr
+AG:AC Daventry:127.100:old.voice.notused:lon_c_ctr
+AG:AC Clacton:118.470:old.voice.notused:lon_e_ctr
+AG:AC North:133.700:old.voice.notused:lon_n_ctr
+AG:AC West:126.070:old.voice.notused:lon_w_ctr
+AG:AC South Central:132.600:old.voice.notused:lon_sc_ctr
+AG:AC Bandbox:127.820:old.voice.notused:lon_ctr
+AG:TC East:121.220:old.voice.notused:ltc_e_ctr
+AG:TC South:134.120:old.voice.notused:ltc_s_ctr
+AG:TC SE:120.520:old.voice.notused:ltc_se_ctr
+AG:TC SW:133.170:old.voice.notused:ltc_sw_ctr
+AG:TC North:119.770:old.voice.notused:ltc_n_ctr
+AG:TC NE:118.820:old.voice.notused:ltc_ne_ctr
+AG:TC NW:121.270:old.voice.notused:ltc_nw_ctr
+AG:TC Bandbox:135.800:old.voice.notused:ltc_ctr
+AG:AC North (North Sea):128.120:old.voice.notused:lon_ne_ctr
+AG:X AC Daventry (Soutbound):134.400:old.voice.notused:lon_cw_ctr
+AG:X AC Daventry (Northbound):127.870:old.voice.notused:lon_ce_ctr
+AG:X AC Daventry (Northbound Low):133.970:old.voice.notused:lon_cl_ctr
+AG:X AC Clacton (Eastbound):133.950:old.voice.notused:lon_en_ctr
+AG:X AC Clacton (Westbound):128.150:old.voice.notused:lon_es_ctr
+AG:X TC Midlands:121.020:old.voice.notused:ltc_m_ctr
+AG:X TC COWLY:133.070:old.voice.notused:ltc_mc_ctr
+AG:X TC WELIN:130.920:old.voice.notused:ltc_mw_ctr
+AG:X TC REDFA:133.520:old.voice.notused:ltc_er_ctr
+AG:X TC SABER:129.600:old.voice.notused:ltc_es_ctr
+AG:MAN:118.770:old.voice.notused:man_ctr
+AG:MAN E:133.800:old.voice.notused:man_e_ctr
+AG:MAN W:128.050:old.voice.notused:man_w_ctr
+AG:BB RAD:123.970:old.voice.notused:egbb_app
+AG:BB RAD 2:131.000:old.voice.notused:egbb_f_app
+AG:BB AIR:118.300:old.voice.notused:egbb_twr
+AG:BB GMC:121.800:old.voice.notused:egbb_gnd
+AG:BB GMP:121.920:old.voice.notused:egbb_del
+AG:Z BB ATIS:136.020:old.voice.notused:egbb_atis
+AG:BE RDO:123.820:old.voice.notused:egbe_r_twr
+AG:BJ APP:128.550:old.voice.notused:egbj_app
+AG:BJ AIR:122.900:old.voice.notused:egbj_twr
+AG:Z BJ ATIS:127.470:old.voice.notused:egbj_atis
+AG:BO INFO:123.000:old.voice.notused:egbo_twr
+AG:CC INT S:118.570:old.voice.notused:egcc_s_app
+AG:CC INT N:135.000:old.voice.notused:egcc_n_app
+AG:CC FIN:121.350:old.voice.notused:egcc_f_app
+AG:CC AIR N:118.620:old.voice.notused:egcc_n_twr
+AG:CC AIR S:119.400:old.voice.notused:egcc_s_twr
+AG:CC GMC:121.850:old.voice.notused:egcc_gnd
+AG:CC GMP:121.700:old.voice.notused:egcc_del
+AG:Z CC ATIS:121.970:old.voice.notused:egcc_atis
+AG:CN AIR:128.770:old.voice.notused:egcn_twr
+AG:CN RAD:126.220:old.voice.notused:egcn_app
+AG:Z CN ATIS:134.950:old.voice.notused:egcn_atis
+AG:FF INT:125.850:old.voice.notused:egff_app
+AG:FF FIN:119.150:old.voice.notused:egff_r_app
+AG:FF AIR:133.100:old.voice.notused:egff_twr
+AG:Z FF ATIS:132.470:old.voice.notused:egff_atis
+AG:GD INT:125.650:old.voice.notused:eggd_app
+AG:GD FIN:136.070:old.voice.notused:eggd_f_app
+AG:GD AIR:133.850:old.voice.notused:eggd_twr
+AG:GD GND:121.920:old.voice.notused:eggd_gnd
+AG:GD DEL:121.920:old.voice.notused:eggd_del
+AG:Z GD ATIS:126.020:old.voice.notused:eggd_atis
+AG:GP APP:119.850:old.voice.notused:eggp_app
+AG:GP RAD:118.450:old.voice.notused:eggp_app
+AG:GP AIR:126.350:old.voice.notused:eggp_twr
+AG:GP GMC:121.950:old.voice.notused:eggp_gnd
+AG:Z GP ATIS:124.320:old.voice.notused:eggp_atis
+AG:GW INT:129.550:old.voice.notused:eggw_app
+AG:GW AIR:132.550:old.voice.notused:eggw_twr
+AG:GW GND:121.750:old.voice.notused:eggw_gnd
+AG:Z GW ATIS:120.570:old.voice.notused:eggw_atis
+AG:HD APP:133.550:old.voice.notused:eghd_app
+AG:HD AIR:118.150:old.voice.notused:eghd_twr
+AG:HH RAD:119.470:old.voice.notused:eghh_app
+AG:HH AIR:125.600:old.voice.notused:eghh_twr
+AG:HH GMC:121.700:old.voice.notused:eghh_gnd
+AG:Z HH ATIS:133.720:old.voice.notused:eghh_atis
+AG:Solent:120.220:old.voice.notused:solent_app
+AG:HI RAD:122.720:old.voice.notused:eghi_app
+AG:HI AIR:118.200:old.voice.notused:eghi_twr
+AG:HI GMC:121.770:old.voice.notused:eghi_gnd
+AG:Z HI ATIS:130.870:old.voice.notused:eghi_atis
+AG:HQ INT:133.400:old.voice.notused:eghq_app
+AG:HQ FIN:128.720:old.voice.notused:eghq_f_twr
+AG:HQ AIR:134.370:old.voice.notused:eghq_twr
+AG:Z HQ ATIS:127.400:old.voice.notused:eghq_atis
+AG:JA AIR:125.350:old.voice.notused:egja_twr
+AG:JB APP:128.650:old.voice.notused:egjb_app
+AG:JB RAD:124.500:old.voice.notused:egjb_r_app
+AG:JB AIR:119.950:old.voice.notused:egjb_twr
+AG:JB GMC:121.800:old.voice.notused:egjb_gnd
+AG:Z JB ATIS:118.900:old.voice.notused:egjb_atis
+AG:JJ Zone:125.200:old.voice.notused:egjj_c_app
+AG:JJ Zone 2:120.450:old.voice.notused:egjj_s_app
+AG:JJ APP:120.300:old.voice.notused:egjj_app
+AG:JJ RAD:118.550:old.voice.notused:egjj_r_app
+AG:JJ AIR:119.450:old.voice.notused:egjj_twr
+AG:JJ GMC:121.900:old.voice.notused:egjj_gnd
+AG:Z JJ ATIS:134.670:old.voice.notused:egjj_atis
+AG:KA APP:123.150:old.voice.notused:egka_app
+AG:KA AIR:125.400:old.voice.notused:egka_twr
+AG:Z KA ATIS:130.970:old.voice.notused:egka_atis
+AG:KB AIR:134.800:old.voice.notused:egkb_twr
+AG:KB APP:129.400:old.voice.notused:egkb_app
+AG:Z KB ATIS:135.670:old.voice.notused:egkb_atis
+AG:KK INT:126.820:old.voice.notused:egkk_app
+AG:KK FIN:118.950:old.voice.notused:egkk_f_app
+AG:KK AIR:124.220:old.voice.notused:egkk_twr
+AG:KK GMC:121.800:old.voice.notused:egkk_gnd
+AG:KK GMP:121.950:old.voice.notused:egkk_del
+AG:Z KK ATIS:136.520:old.voice.notused:egkk_atis
+AG:KR AIR:119.600:old.voice.notused:egkr_twr
+AG:Z KR ATIS:136.120:old.voice.notused:egkr_atis
+AG:Thames:132.700:old.voice.notused:thames_app
+AG:LC RAD:128.020:old.voice.notused:eglc_r_app
+AG:LC AIR:118.070:old.voice.notused:eglc_twr
+AG:LC GMC:121.820:old.voice.notused:eglc_gnd
+AG:Z LC ATIS:136.350:old.voice.notused:eglc_atis
+AG:LD INFO:130.720:old.voice.notused:egld_i_twr
+AG:LF LARS:125.250:old.voice.notused:eglf_r_app
+AG:LF RAD:134.350:old.voice.notused:eglf_app
+AG:LF AIR:122.770:old.voice.notused:eglf_twr
+AG:LF GMC:121.820:old.voice.notused:eglf_gnd
+AG:Z LF ATIS:128.400:old.voice.notused:eglf_atis
+AG:LL INT N:119.720:old.voice.notused:egll_n_app
+AG:LL FIN:120.400:old.voice.notused:egll_f_app
+AG:LL INT S:134.970:old.voice.notused:egll_s_app
+AG:LL AIR S:118.500:old.voice.notused:egll_s_twr
+AG:LL AIR N:118.700:old.voice.notused:egll_n_twr
+AG:LL GMC 1:121.900:old.voice.notused:egll_1_gnd
+AG:LL GMC 2:121.700:old.voice.notused:egll_2_gnd
+AG:LL GMC 3:121.850:old.voice.notused:egll_3_gnd
+AG:LL GMP:121.970:old.voice.notused:egll_del
+AG:LL PLN:124.470:old.voice.notused:egll_p_gnd
+AG:Z LL ATIS:128.070:old.voice.notused:egll_atis
+AG:LW AIR:134.270:old.voice.notused:eglw_twr
+AG:MC RAD:130.770:old.voice.notused:egmc_r_app
+AG:MC DIR:132.450:old.voice.notused:egmc_app
+AG:MC AIR:127.750:old.voice.notused:egmc_twr
+AG:Z MC ATIS:136.050:old.voice.notused:egmc_atis
+AG:MD APP:120.700:old.voice.notused:egmd_app
+AG:MD AIR:128.520:old.voice.notused:egmd_twr
+AG:Z MD ATIS:129.220:old.voice.notused:egmd_atis
+AG:MH RAD:132.450:old.voice.notused:egmh_app
+AG:MH AIR:119.920:old.voice.notused:egmh_twr
+AG:Z MH ATIS:133.670:old.voice.notused:egmh_atis
+AG:NC APP:123.600:old.voice.notused:egnc_app
+AG:NC AIR:123.600:old.voice.notused:egnc_twr
+AG:Z NC ATIS:118.420:old.voice.notused:egnc_atis
+AG:NH RAD:119.950:old.voice.notused:egnh_app
+AG:NH AIR:118.400:old.voice.notused:egnh_twr
+AG:Z NH ATIS:127.200:old.voice.notused:egnh_atis
+AG:NM RAD:134.570:old.voice.notused:egnm_app
+AG:NM AIR:120.300:old.voice.notused:egnm_twr
+AG:NM GMP:121.800:old.voice.notused:egnm_del
+AG:Z NM ATIS:118.020:old.voice.notused:egnm_atis
+AG:NO RAD:129.520:old.voice.notused:egno_app
+AG:NO AIR:130.800:old.voice.notused:egno_twr
+AG:Z NO ATIS:121.720:old.voice.notused:egno_atis
+AG:NR RAD:120.070:old.voice.notused:egnr_app
+AG:NR FIN:130.020:old.voice.notused:egnr_f_app
+AG:NR AIR:124.950:old.voice.notused:egnr_twr
+AG:Z NR ATIS:125.420:old.voice.notused:egnr_atis
+AG:NS RAD:120.850:old.voice.notused:egns_app
+AG:NS AIR:118.900:old.voice.notused:egns_twr
+AG:Z NS ATIS:123.870:old.voice.notused:egns_atis
+AG:NT RAD:124.370:old.voice.notused:egnt_app
+AG:NT RAD2:125.820:old.voice.notused:egnt_f_app
+AG:NT AIR:119.700:old.voice.notused:egnt_twr
+AG:NT GMC:121.720:old.voice.notused:egnt_gnd
+AG:Z NT ATIS:118.370:old.voice.notused:egnt_atis
+AG:NV RAD:118.850:old.voice.notused:egnv_app
+AG:NV FIN:128.850:old.voice.notused:egnv_app
+AG:NV AIR:119.800:old.voice.notused:egnv_twr
+AG:Z NV ATIS:132.370:old.voice.notused:egnv_atis
+AG:NX RAD:134.170:old.voice.notused:egnx_app
+AG:NX RAD2:120.120:old.voice.notused:egnx_r_app
+AG:NX AIR:124.000:old.voice.notused:egnx_twr
+AG:NX GMC:121.900:old.voice.notused:egnx_gnd
+AG:Z NX ATIS:122.670:old.voice.notused:egnx_atis
+AG:SC RAD:120.970:old.voice.notused:egsc_app
+AG:SC AIR:125.900:old.voice.notused:egsc_twr
+AG:Z SC ATIS:134.600:old.voice.notused:egsc_atis
+AG:SH RAD:119.350:old.voice.notused:egsh_app
+AG:SH AIR:124.250:old.voice.notused:egsh_twr
+AG:Z SH ATIS:128.620:old.voice.notused:egsh_atis
+AG:Essex:120.620:old.voice.notused:essex_app
+AG:SS FIN:136.200:old.voice.notused:egss_app
+AG:SS AIR:123.800:old.voice.notused:egss_twr
+AG:SS GMC:121.720:old.voice.notused:egss_gnd
+AG:SS GMP:121.950:old.voice.notused:egss_del
+AG:Z SS ATIS:127.170:old.voice.notused:egss_atis
+AG:TE RAD:128.970:old.voice.notused:egte_app
+AG:TE AIR:119.800:old.voice.notused:egte_twr
+AG:Z TE ATIS:119.320:old.voice.notused:egte_atis
+AG:TK RAD:125.100:old.voice.notused:egtk_r_app
+AG:TK APP:119.970:old.voice.notused:egtk_app
+AG:TK AIR:133.420:old.voice.notused:egtk_twr
+AG:TK GMC:121.950:old.voice.notused:egtk_gnd
+AG:Z TK ATIS:136.220:old.voice.notused:egtk_atis
+AG:WU APP:126.450:old.voice.notused:egwu_app
+AG:WU FIN:130.350:old.voice.notused:egwu_app
+AG:WU AIR:120.670:old.voice.notused:egwu_twr
+AG:WU GMC:121.570:old.voice.notused:egwu_gnd
+AG:Z WU ATIS:125.120:old.voice.notused:egwu_atis
+END

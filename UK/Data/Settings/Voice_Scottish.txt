@@ -1,0 +1,75 @@
+VOICE
+AG:ScAC Bandbox:135.520:old.voice.notused:sco_ctr
+AG:ScAC East:121.320:old.voice.notused:sco_e_ctr
+AG:ScAC West and DCS:133.200:old.voice.notused:sco_wd_ctr
+AG:ScAC West:132.720:old.voice.notused:sco_w_ctr
+AG:ScAC DCS:135.850:old.voice.notused:sco_d_ctr
+AG:ScAC Rathlin:129.100:old.voice.notused:sco_r_ctr
+AG:ScTMA:126.300:old.voice.notused:stc_ctr
+AG:Antrim:123.770:old.voice.notused:stc_a_ctr
+AG:AA GMC:121.750:old.voice.notused:egaa_gnd
+AG:AA AIR:118.300:old.voice.notused:egaa_twr
+AG:AA INT:128.500:old.voice.notused:egaa_r_app
+AG:AA FIN:120.900:old.voice.notused:egaa_app
+AG:Z AA ATIS:126.120:old.voice.notused:egaa_atis
+AG:AB A/G:123.200:old.voice.notused:egab_twr
+AG:AC AIR:122.820:old.voice.notused:egac_twr
+AG:AC INT:130.850:old.voice.notused:egac_app
+AG:AC FIN:134.800:old.voice.notused:egac_f_app
+AG:Z AC ATIS:124.570:old.voice.notused:egac_atis
+AG:AD A/G:128.300:old.voice.notused:egad_twr
+AG:AE AIR:134.150:old.voice.notused:egae_twr
+AG:AE INT:123.620:old.voice.notused:egae_app
+AG:Z AE ATIS:119.370:old.voice.notused:egae_atis
+AG:NC INT:123.600:old.voice.notused:egnc_app
+AG:NC AIR:123.600:old.voice.notused:egnc_twr
+AG:Z NC ATIS:118.420:old.voice.notused:egnc_atis
+AG:PA AIR:118.300:old.voice.notused:egpa_twr
+AG:PA INT:118.300:old.voice.notused:egpa_app
+AG:Z PA ATIS:108.600:old.voice.notused:egpa_atis
+AG:PB AIR:118.250:old.voice.notused:egpb_twr
+AG:PB INT:131.300:old.voice.notused:egpb_app
+AG:PB FIN:123.150:old.voice.notused:egpb_f_app
+AG:Z PB ATIS:125.850:old.voice.notused:egpb_atis
+AG:PC AIR:119.700:old.voice.notused:egpc_twr
+AG:PC INT:119.700:old.voice.notused:egpc_app
+AG:Z PC ATIS:113.600:old.voice.notused:egpc_atis
+AG:PD GMC:121.700:old.voice.notused:egpd_gnd
+AG:PD AIR:118.100:old.voice.notused:egpd_twr
+AG:PD INT:119.050:old.voice.notused:egpd_app
+AG:PD FIN:128.300:old.voice.notused:egpd_f_app
+AG:Z PD ATIS:121.850:old.voice.notused:egpd_atis
+AG:PE AIR:118.400:old.voice.notused:egpe_twr
+AG:PE INT:122.600:old.voice.notused:egpe_app
+AG:Z PE ATIS:124.700:old.voice.notused:egpe_atis
+AG:PF GMC:121.700:old.voice.notused:egpf_gnd
+AG:PF AIR:118.800:old.voice.notused:egpf_twr
+AG:PF INT:119.100:old.voice.notused:egpf_app
+AG:PF FIN:128.750:old.voice.notused:egpf_f_app
+AG:Z PF ATIS:129.570:old.voice.notused:egpf_atis
+AG:PG A/G:120.600:old.voice.notused:egpg_twr
+AG:PH GMC:121.750:old.voice.notused:egph_gnd
+AG:PH AIR:118.700:old.voice.notused:egph_twr
+AG:PH INT:121.200:old.voice.notused:egph_app
+AG:PH FIN:128.970:old.voice.notused:egph_f_app
+AG:Z PH ATIS:131.350:old.voice.notused:egph_atis
+AG:PK AIR:118.150:old.voice.notused:egpk_twr
+AG:PK INT:129.450:old.voice.notused:egpk_app
+AG:PK FIN:124.620:old.voice.notused:egpk_f_app
+AG:Z PK ATIS:121.120:old.voice.notused:egpk_atis
+AG:PL AIR:119.200:old.voice.notused:egpl_twr
+AG:PL INT:119.200:old.voice.notused:egpl_app
+AG:Z PL ATIS:113.950:old.voice.notused:egpl_atis
+AG:PM AIR:119.200:old.voice.notused:egpm_twr
+AG:PM INT:122.400:old.voice.notused:egpm_app
+AG:Z PM ATIS:128.500:old.voice.notused:egpm_atis
+AG:PN AIR:122.900:old.voice.notused:egpn_twr
+AG:PN INT:122.900:old.voice.notused:egpn_app
+AG:Z PN ATIS:119.320:old.voice.notused:egpn_atis
+AG:PO AIR:123.500:old.voice.notused:egpo_twr
+AG:PO INT:123.500:old.voice.notused:egpo_app
+AG:Z PO ATIS:115.100:old.voice.notused:egpo_atis
+AG:Z PR ATIS:115.100:old.voice.notused:egpr_atis
+AG:PT TWR:115.100:old.voice.notused:egpt_twr
+AG:Z PU ATIS:122.700:old.voice.notused:egpu_atis
+END

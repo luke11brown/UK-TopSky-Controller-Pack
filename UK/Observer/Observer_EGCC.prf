@@ -1,0 +1,19 @@
+Settings	SettingsfilePLUGINS	UK\Data\Settings\Local\Observer\Settings.txt
+Settings	SettingsfilePROFILE	UK\Data\Settings\Local\Observer\Settings.txt
+Settings	SettingsfileSCREEN	UK\Data\Settings\Local\Observer\Settings.txt
+Settings	SettingsfileVOICE	UK\Data\Settings\Local\Observer\Voice.txt
+Settings	Settingsfile	UK\Data\Settings\Local\Observer\Settings.txt
+Settings	SettingsfileARR	UK\Data\Settings\Local\Observer\Settings.txt
+Settings	SettingsfileDEP	UK\Data\Settings\Local\Observer\Settings.txt
+Settings	SettingsfileFP	UK\Data\Settings\Local\Observer\Settings.txt
+Settings	SettingsfileSEL	UK\Data\Settings\Local\Observer\Settings.txt
+Settings	SettingsfileSIL	UK\Data\Settings\Local\Observer\Settings.txt
+Settings	SettingsfileSYMBOLOGY	UK\Data\Settings\Local\Observer\Symbology.txt
+Settings	SettingsfileTAGS	UK\Data\Settings\Tags.txt
+Settings	sector	UK\Data\Sector\UK_2020_02.sct
+Settings	alias	UK\Data\Alias\demoAlias.txt
+Settings	SectorFileProviderDescriptor	UK\Data\Sector\VATUK_SectorFileProviderDescriptor.txt
+RecentFiles	Recent1	UK\Data\ASR\Observer\Observer EGCC SMR.asr
+ASRFastKeys	1	UK\Data\ASR\Observer\Observer EGCC SMR.asr
+RecentFiles	Recent2	UK\Data\ASR\Observer\Radar.asr
+ASRFastKeys	2	UK\Data\ASR\Observer\Radar.asr

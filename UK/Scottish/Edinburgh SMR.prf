@@ -1,0 +1,22 @@
+Settings	SettingsfilePLUGINS	UK\Data\Settings\Local\Edinburgh\Plugins.txt
+Settings	SettingsfilePROFILE	UK\Data\Settings\Local\Edinburgh\Profiles.txt
+Settings	SettingsfileSCREEN	UK\Data\Settings\Sc_APP\Sc_APP_Screen.txt
+Settings	SettingsfileVOICE	UK\Data\Settings\Voice_Scottish.txt
+Settings	Settingsfile	UK\Data\Settings\Sc_APP\Sc_APP_General.txt
+Settings	SettingsfileARR	UK\Data\Settings\Sc_APP\Sc_APP_AL.txt
+Settings	SettingsfileCONFLICT	UK\Data\Settings\Sc_APP\Sc_APP_C.txt
+Settings	SettingsfileDEP	UK\Data\Settings\Sc_APP\Sc_APP_DL.txt
+Settings	SettingsfileFP	UK\Data\Settings\Sc_APP\Sc_APP_FPL.txt
+Settings	SettingsfileSEL	UK\Data\Settings\Sc_APP\Sc_APP_SEL.txt
+Settings	SettingsfileSIL	UK\Data\Settings\Sc_APP\Sc_APP_SIL.txt
+Settings	SettingsfileSYMBOLOGY	UK\Data\Settings\Sc_APP\Sc_APP_Symbology.txt
+Settings	SettingsfileTAGS	UK\Data\Settings\Tags.txt
+Settings	SettingsfileVCCS	UK\Data\Settings\VCCS_Scottish.txt
+Settings	sector	UK\Data\Sector\UK_2020_02.sct
+Settings	alias	UK\Data\Alias\AC_Alias.txt
+Settings	SectorFileProviderDescriptor	UK\Data\Sector\VATUK_SectorFileProviderDescriptor.txt
+ASRFastKeys	1	UK\Data\ASR\Edinburgh\Edinburgh SMR.asr
+RecentFiles	Recent1	UK\Data\ASR\Edinburgh\Edinburgh SMR.asr
+LastSession	connecttype	0
+LastSession	facility	0
+LastSession	rating	0

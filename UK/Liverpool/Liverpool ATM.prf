@@ -1,0 +1,24 @@
+Settings	SettingsfilePLUGINS	UK\Data\Settings\Local\Liverpool\Plugins.txt
+Settings	SettingsfilePROFILE	UK\Data\Settings\Local\Liverpool\Profiles.txt
+Settings	SettingsfileSCREEN	UK\Data\Settings\ATM\ATM_Screen.txt
+Settings	SettingsfileVOICE	UK\Data\Settings\Voice.txt
+Settings	Settingsfile	UK\Data\Settings\ATM\ATM_General_5A.txt
+Settings	SettingsfileARR	UK\Data\Settings\ATM\ATM_Lists.txt
+Settings	SettingsfileCONFLICT	UK\Data\Settings\ATM\ATM_Lists.txt
+Settings	SettingsfileDEP	UK\Data\Settings\ATM\ATM_Lists.txt
+Settings	SettingsfileFP	UK\Data\Settings\ATM\ATM_Lists.txt
+Settings	SettingsfileSEL	UK\Data\Settings\ATM\ATM_Lists.txt
+Settings	SettingsfileSIL	UK\Data\Settings\ATM\ATM_Lists.txt
+Settings	SettingsfileSYMBOLOGY	UK\Data\Settings\Local\Liverpool\ATM_Symbology.txt
+Settings	SettingsfileTAGS	UK\Data\Settings\Tags.txt
+Settings	SettingsfileVCCS	UK\Data\Settings\VCCS_North.txt
+Settings	sector	UK\Data\Sector\UK_2020_02.sct
+Settings	alias	UK\Data\Alias\AC_Alias.txt
+Settings	AtisFolder	UK\Data\ATIS\ATIS.txt
+RecentFiles	Recent1	UK\Data\ASR\Liverpool\Liverpool ATM.asr
+RecentFiles	Recent2	UK\Data\ASR\Liverpool\Liverpool SMR.asr
+ASRFastKeys	1	UK\Data\ASR\Liverpool\Liverpool ATM.asr
+ASRFastKeys	2	UK\Data\ASR\Liverpool\Liverpool SMR.asr
+LastSession	connecttype	0
+LastSession	facility	0
+LastSession	rating	0
