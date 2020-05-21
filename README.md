@@ -46,4 +46,9 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 
 Arvid - for introducing me to the wonders of TopSky
 
-Chris/Harry - I nicked some Gihub bits for the readme and contribution guide
+Chris/Harry - I nicked some Github bits for the readme and contribution guide
+
+Chad - Symbology Settings
+
+Sam White - NERL radar data
+
