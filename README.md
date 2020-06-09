@@ -30,7 +30,7 @@ For further information regarding the features of the various plugins in use, re
 
 ## Contributing
 
-Please read [Contributing.md](https://github.com/luke11brown/UK-TopSky-Controller-Pack/blob/master/Contributing.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [Contributing.md](https://github.com/luke11brown/UK-TopSky-Controller-Pack/blob/master/Contributing.md) for the process for submitting pull requests.
 
 ## Authors
 
