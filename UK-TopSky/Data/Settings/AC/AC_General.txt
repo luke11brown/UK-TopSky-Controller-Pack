@@ -6,7 +6,7 @@ m_ShowRouteETA:1
 m_ShowCalculatedHeading:1
 m_ShowSimulatedData:0
 m_TransitionAltitude:6000
-m_AllowConcernedACTagDown:1
+m_AllowConcernedACTagDown:0
 m_CenterlineDme:0.0
 m_CenterlineLength:20.0
 m_CenterlineTickDme:5.0
@@ -18,12 +18,12 @@ m_CenterlineVectorDme:5.0
 m_CenterlineVectorLength:3.0
 m_CenterlineVectorAngle:30.0
 m_CenterlineVectorBase:5.0
-m_STCA_LowShow:1
-m_STCA_LowVertical:1000
+m_STCA_LowShow:0
+m_STCA_LowVertical:980
 m_STCA_LowHorizontal:3.0
 m_STCA_LowBottom:2500
-m_STCA_HighShow:1
-m_STCA_HighVertical:1000
+m_STCA_HighShow:0
+m_STCA_HighVertical:980
 m_STCA_HighHorizontal:5.0
 m_STCA_HighBottom:17500
 m_ExtendedCenterlinActiveArr:0
@@ -61,7 +61,7 @@ SET_WTC_Heavy:H
 SET_WTC_A380:J
 m_RotateRouteTexts:1
 m_NeverCloseFreqChat:1
-m_KeepScratchPadAfterDirect:0
+m_KeepScratchPadAfterDirect:1
 m_HiliteASELAircraft:1
 m_EnableVoiceRecognition:0
 m_VoiceRecognitionStyle:2
