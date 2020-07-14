@@ -48,11 +48,11 @@ ARC:0:0:9:0:360
 
 //Controlled SSR & SSR+PSR Tracks
 SYMBOL:RPS3
-POLYGON:-3:-3:-3:3:3:3:3:-3
+POLYGON:-4:-4:-4:4:4:4:4:-4
 
 //Controlled SSR & SSR+PSR Tracks
 SYMBOL:RPS3I
-POLYGON:-3:-3:-3:3:3:3:3:-3
+POLYGON:-4:-4:-4:4:4:4:4:-4
 ARC:0:0:9:0:360
 
 //Secondary Target
@@ -64,7 +64,6 @@ LINETO:-5:5
 
 //Secondary Target with Ident
 SYMBOL:RPS4I
-SYMBOL:RPS4
 MOVETO:-4:-4
 LINETO:5:5
 MOVETO:4:-4
