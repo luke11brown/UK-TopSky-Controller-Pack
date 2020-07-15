@@ -1,5 +1,5 @@
 Setup_COOPANS=1
-Color_Active_Map_Type_1=87,87,164
+Color_Active_Map_Type_1=120,0,0
 Color_Active_Map_Type_2=80,162,74
 Color_Active_Map_Type_3=179,180,180
 Color_Active_Map_Type_4=200,53,18
