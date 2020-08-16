@@ -3,8 +3,6 @@ DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
 SECTORFILE:UK-TopSky\Data\Sector\UK_2020_07.sct
 SECTORTITLE:UK_2020_07.sct
-ARTCC boundary:EGP611:
-ARTCC boundary:EGP813:
 ARTCC boundary:EGR002:
 ARTCC boundary:EGR063:
 ARTCC boundary:EGR095:
@@ -61,7 +59,6 @@ ARTCC high boundary:Belfast TMA:
 ARTCC high boundary:Berry Head CTA:
 ARTCC high boundary:Channel Islands TMA:
 ARTCC high boundary:Clacton CTA:
-ARTCC high boundary:Cotswold CTA:
 ARTCC high boundary:Daventry CTA:
 ARTCC high boundary:Deauville TMA:
 ARTCC high boundary:EBBU Brussels FIR:
