@@ -1996,5 +1996,5 @@ PLUGIN:UK Controller Plugin:MinStackScreenPosY:70
 PLUGIN:UK Controller Plugin:RegionalPressureScreenPosX:1333
 PLUGIN:UK Controller Plugin:RegionalPressureScreenPosY:68
 PLUGIN:UK Controller Plugin:selectedHoldProfile:0
-PLUGIN:UK Controller Plugin:SelectedMinStack:tma.LTMA;tma.MTMA;tma.STMA
+PLUGIN:UK Controller Plugin:SelectedMinStack:tma.MTMA
 PLUGIN:UK Controller Plugin:SelectedRegionalPressures:ASR_LONDON;ASR_SCOTTISH
