@@ -58,6 +58,10 @@ ARTCC boundary:EGD115B:
 ARTCC boundary:EGD117:
 ARTCC boundary:EGD118:
 ARTCC boundary:EGD119:
+ARTCC boundary:EGD120:
+ARTCC boundary:EGD122A:
+ARTCC boundary:EGD122B:
+ARTCC boundary:EGD122C:
 ARTCC boundary:EGD123:
 ARTCC boundary:EGD124:
 ARTCC boundary:EGD125:
@@ -132,6 +136,7 @@ ARTCC boundary:EGD408:
 ARTCC boundary:EGD410:
 ARTCC boundary:EGD412:
 ARTCC boundary:EGD442:
+ARTCC boundary:EGD505:
 ARTCC boundary:EGD508:
 ARTCC boundary:EGD509:
 ARTCC boundary:EGD510A:
@@ -294,10 +299,14 @@ ARTCC low boundary:EGCN Doncaster Sheffield CTA:
 ARTCC low boundary:EGDI Merryfield MATZ:
 ARTCC low boundary:EGDM Boscombe Down MATZ:
 ARTCC low boundary:EGDN Netheravon ATZ:
+ARTCC low boundary:EGDO Predannack MATZ:
+ARTCC low boundary:EGDR Culdrose MATZ:
+ARTCC low boundary:EGDY Yeovilton MATZ:
 ARTCC low boundary:EGFF Cardiff CTA:
 ARTCC low boundary:EGGD Bristol CTA:
 ARTCC low boundary:EGGP Liverpool CTA:
 ARTCC low boundary:EGGW London Luton CTA:
+ARTCC low boundary:EGGW Luton Gate:
 ARTCC low boundary:EGGW Luton LFC:
 ARTCC low boundary:EGHA Compton ATZ:
 ARTCC low boundary:EGHC Lands End ATZ:
@@ -329,6 +338,7 @@ ARTCC low boundary:EGNS Isle of Man CTA:
 ARTCC low boundary:EGNT Newcastle CTA:
 ARTCC low boundary:EGNV Teeside CTA:
 ARTCC low boundary:EGNX East Midlands CTA:
+ARTCC low boundary:EGOS Shawbury MATZ:
 ARTCC low boundary:EGOV Valley MATZ:
 ARTCC low boundary:EGPB Sumburgh CTA:
 ARTCC low boundary:EGPD Aberdeen CTA:
@@ -340,17 +350,24 @@ ARTCC low boundary:EGQL Leuchars MATZ:
 ARTCC low boundary:EGQS Lossiemouth MATZ:
 ARTCC low boundary:EGSH Norwich CTA:
 ARTCC low boundary:EGSS London Stansted CTA:
+ARTCC low boundary:EGSY St Athan LFA:
 ARTCC low boundary:EGTF Fairoaks LFA:
 ARTCC low boundary:EGTO Rochester ATZ:
 ARTCC low boundary:EGUB Benson MATZ:
+ARTCC low boundary:EGUL Lakenheath MATZ:
+ARTCC low boundary:EGUN Mildenhall MATZ:
 ARTCC low boundary:EGUW Wattisham MATZ:
 ARTCC low boundary:EGVF Fleetlands ATZ:
 ARTCC low boundary:EGVN Brize Norton CTR:
 ARTCC low boundary:EGVO Odiham MATZ:
 ARTCC low boundary:EGVP Middle Wallop MATZ:
 ARTCC low boundary:EGXC Coningsby MATZ:
+ARTCC low boundary:EGXE Leeming MATZ:
+ARTCC low boundary:EGXT Wittering MATZ:
+ARTCC low boundary:EGXW Waddington MATZ:
 ARTCC low boundary:EGYD Cranwell MATZ:
 ARTCC low boundary:EGYM Marham MATZ:
+ARTCC low boundary:EIDL Donegal CTA:
 ARTCC low boundary:EIDW Dublin CTA:
 ARTCC low boundary:LFAT Le Touquet CTR:
 ARTCC low boundary:LFOH Le Havre CTR:
@@ -1957,7 +1974,7 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:TC
-WINDOWAREA:50.564299:-2.711114:52.255735:2.393671
+WINDOWAREA:51.991873:-6.258509:54.634742:1.717718
 PLUGIN:UK Controller Plugin:CountdownScreenPosX:1407
 PLUGIN:UK Controller Plugin:CountdownScreenPosY:24
 PLUGIN:UK Controller Plugin:DisplayCountdown:1
