@@ -1,8 +1,7 @@
 DisplayTypeName:SMR radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
-SECTORFILE:UK-TopSky\Data\Sector\UK_2020_07.sct
-SECTORTITLE:UK_2020_07.sct
+SECTORTITLE:UK_2020_09.sct
 Free Text:SCT2\03D:freetext
 Free Text:SCT2\06:freetext
 Free Text:SCT2\06 Grass:freetext
