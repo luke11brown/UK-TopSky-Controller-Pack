@@ -16,10 +16,6 @@ Settings	sector	\..\Data\Sector\UK_2020_09.sct
 Settings	alias	\..\Data\Alias\AC_Alias.txt
 Settings	AtisFolder	\..\Data\ATIS\ATIS.txt
 Settings	SectorFileProviderDescriptor	\..\Data\Sector\VATUK_SectorFileProviderDescriptor.txt
-RecentFiles	Recent1	\..\Data\ASR\TC\STCG9.asr
-RecentFiles	Recent2	\..\Data\ASR\TC\STCG8.asr
-RecentFiles	Recent3	\..\Data\ASR\TC\STCG7.asr
-RecentFiles	Recent4	\..\Data\ASR\TC\STCG6.asr
 RecentFiles	Recent5	\..\Data\ASR\TC\STCG5.asr
 RecentFiles	Recent6	\..\Data\ASR\TC\STCG4.asr
 RecentFiles	Recent7	\..\Data\ASR\TC\STCG3.asr
@@ -30,10 +26,6 @@ ASRFastKeys	2	\..\Data\ASR\TC\STCG2.asr
 ASRFastKeys	3	\..\Data\ASR\TC\STCG3.asr
 ASRFastKeys	4	\..\Data\ASR\TC\STCG4.asr
 ASRFastKeys	5	\..\Data\ASR\TC\STCG5.asr
-ASRFastKeys	6	\..\Data\ASR\TC\STCG6.asr
-ASRFastKeys	7	\..\Data\ASR\TC\STCG7.asr
-ASRFastKeys	8	\..\Data\ASR\TC\STCG8.asr
-ASRFastKeys	9	\..\Data\ASR\TC\STCG9.asr
 Plugins	Plugin0	\..\Data\Plugin\UKControllerPlugin.dll
 Plugins	Plugin0Display0	Standard ES radar screen
 Plugins	Plugin1	\..\Data\Plugin\AfvEuroScopeBridge.dll
