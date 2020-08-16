@@ -1,0 +1,18 @@
+PROFILE
+PROFILE:STC_CTR:300:6
+ATIS2:"Scottish Control"
+ATIS3:Top-down when no local ATC for Scottish TMA - vatsim.uk/area-sectors
+ATIS4:We love feedback! Submit some at vats.im/atcfb
+PROFILE:STC_W_CTR:300:6
+ATIS2:"Scottish Control"
+ATIS3:Top-down when no local ATC for Scottish TMA - vatsim.uk/area-sectors
+ATIS4:We love feedback! Submit some at vats.im/atcfb
+PROFILE:STC_E_CTR:250:6
+ATIS2:"Scottish Control"
+ATIS3:Top-down when no local ATC for Scottish TMA - vatsim.uk/area-sectors
+ATIS4:We love feedback! Submit some at vats.im/atcfb
+PROFILE:STC_A_CTR:350:6
+ATIS2:"Scottish Control"
+ATIS3:Top-down when no local ATC for Belfast - vatsim.uk/area-sectors
+ATIS4:We love feedback! Submit some at vats.im/atcfb
+END

@@ -1,0 +1,42 @@
+Settings	SettingsfilePLUGINS	\..\Data\Settings\Local\LTC\LTC_Plugins.txt
+Settings	SettingsfilePROFILE	\..\Data\Settings\Local\LTC\LTC_Profiles.txt
+Settings	SettingsfileSCREEN	\..\Data\Settings\TC\TC_Screen.txt
+Settings	SettingsfileVOICE	\..\Data\Settings\Voice.txt
+Settings	Settingsfile	\..\Data\Settings\TC\TC_General.txt
+Settings	SettingsfileARR	\..\Data\Settings\TC\TC_Lists.txt
+Settings	SettingsfileCONFLICT	\..\Data\Settings\TC\TC_Lists.txt
+Settings	SettingsfileDEP	\..\Data\Settings\TC\TC_Lists.txt
+Settings	SettingsfileFP	\..\Data\Settings\TC\TC_Lists.txt
+Settings	SettingsfileSEL	\..\Data\Settings\TC\TC_Lists.txt
+Settings	SettingsfileSIL	\..\Data\Settings\TC\TC_Lists.txt
+Settings	SettingsfileSYMBOLOGY	\..\Data\Settings\TC\TCI_Symbology.txt
+Settings	SettingsfileTAGS	\..\Data\Settings\Tags.txt
+Settings	SettingsfileVCCS	\..\Data\Settings\VCCS.txt
+Settings	sector	\..\Data\Sector\UK_2020_09.sct
+Settings	alias	\..\Data\Alias\AC_Alias.txt
+Settings	AtisFolder	\..\Data\ATIS\ATIS.txt
+Settings	SectorFileProviderDescriptor	\..\Data\Sector\VATUK_SectorFileProviderDescriptor.txt
+RecentFiles	Recent1	\..\Data\ASR\TC\LTCG9.asr
+RecentFiles	Recent2	\..\Data\ASR\TC\LTCG8.asr
+RecentFiles	Recent3	\..\Data\ASR\TC\LTCG7.asr
+RecentFiles	Recent4	\..\Data\ASR\TC\LTCG6.asr
+RecentFiles	Recent5	\..\Data\ASR\TC\LTCG5.asr
+RecentFiles	Recent6	\..\Data\ASR\TC\LTCG4.asr
+RecentFiles	Recent7	\..\Data\ASR\TC\LTCG3.asr
+RecentFiles	Recent8	\..\Data\ASR\TC\LTCG2.asr
+RecentFiles	Recent9	\..\Data\ASR\TC\LTCG1.asr
+ASRFastKeys	1	\..\Data\ASR\TC\LTCG1.asr
+ASRFastKeys	2	\..\Data\ASR\TC\LTCG2.asr
+ASRFastKeys	3	\..\Data\ASR\TC\LTCG3.asr
+ASRFastKeys	4	\..\Data\ASR\TC\LTCG4.asr
+ASRFastKeys	5	\..\Data\ASR\TC\LTCG5.asr
+ASRFastKeys	6	\..\Data\ASR\TC\LTCG6.asr
+ASRFastKeys	7	\..\Data\ASR\TC\LTCG7.asr
+ASRFastKeys	8	\..\Data\ASR\TC\LTCG8.asr
+ASRFastKeys	9	\..\Data\ASR\TC\LTCG9.asr
+Plugins	Plugin0	\..\Data\Plugin\UKControllerPlugin.dll
+Plugins	Plugin0Display0	Standard ES radar screen
+Plugins	Plugin1	\..\Data\Plugin\AfvEuroScopeBridge.dll
+Plugins	Plugin1Display0	Standard ES radar screen
+Plugins	Plugin2	\..\Data\Plugin\vSMR_1.4.0\vSMR.dll
+Plugins	Plugin2Display0	SMR radar display

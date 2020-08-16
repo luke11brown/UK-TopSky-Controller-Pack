@@ -1,0 +1,22 @@
+PROFILE
+PROFILE:MAN_CTR:300:6
+ATIS2:"Scottish Control"
+ATIS3:Top-down when no local ATC for Manchester TMA - vatsim.uk/area-sectors
+ATIS4:We love feedback! Submit some at vats.im/atcfb
+PROFILE:MAN_W_CTR:300:6
+ATIS2:"Scottish Control"
+ATIS3:Top-down when no local ATC for Manchester TMA - vatsim.uk/area-sectors
+ATIS4:We love feedback! Submit some at vats.im/atcfb
+PROFILE:MAN_E_CTR:300:6
+ATIS2:"Scottish Control"
+ATIS3:Top-down when no local ATC for Manchester TMA - vatsim.uk/area-sectors
+ATIS4:We love feedback! Submit some at vats.im/atcfb
+PROFILE:MAN_WL_CTR:300:6
+ATIS2:"Scottish Control"
+ATIS3:Top-down when no local ATC for Manchester TMA - vatsim.uk/area-sectors
+ATIS4:We love feedback! Submit some at vats.im/atcfb
+PROFILE:MAN_WI_CTR:300:6
+ATIS2:"Scottish Control"
+ATIS3:Top-down when no local ATC for Manchester TMA - vatsim.uk/area-sectors
+ATIS4:We love feedback! Submit some at vats.im/atcfb
+END
