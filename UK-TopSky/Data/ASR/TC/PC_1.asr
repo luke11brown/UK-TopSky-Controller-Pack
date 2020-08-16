@@ -1,8 +1,8 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:UK\Data\Sector\UK_2020_02.sct
-SECTORTITLE:UK_2020_02.sct
+SECTORFILE:\..\Data\Sector\UK_2020_09.sct
+SECTORTITLE:UK_2020_09.sct
 ARTCC boundary:EBR08:
 ARTCC boundary:EBR17A:
 ARTCC boundary:EBR17B:
@@ -369,12 +369,14 @@ HISTORY_DOTS:0
 SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
+DisplayRotation:0.00000
 TAGFAMILY:TC
-WINDOWAREA:50.972436:-1.908843:52.029032:1.269159
+WINDOWAREA:50.972436:-1.914255:52.029032:1.274571
 PLUGIN:UK Controller Plugin:CountdownScreenPosX:72
 PLUGIN:UK Controller Plugin:CountdownScreenPosY:44
 PLUGIN:UK Controller Plugin:DisplayCountdown:1
 PLUGIN:UK Controller Plugin:DisplayMinStack:1
+PLUGIN:UK Controller Plugin:DisplayRegionalPressures:1
 PLUGIN:UK Controller Plugin:HistoryTrailAntiAlias:1
 PLUGIN:UK Controller Plugin:HistoryTrailColour:255,130,20
 PLUGIN:UK Controller Plugin:HistoryTrailDegrade:1
@@ -385,5 +387,10 @@ PLUGIN:UK Controller Plugin:HistoryTrailLength:15
 PLUGIN:UK Controller Plugin:HistoryTrailMaxAltitudeFilter:99999
 PLUGIN:UK Controller Plugin:HistoryTrailMinAltitudeFilter:0
 PLUGIN:UK Controller Plugin:HistoryTrailType:0
+PLUGIN:UK Controller Plugin:holdDisplayVisibility:1
 PLUGIN:UK Controller Plugin:MinStackScreenPosX:100
 PLUGIN:UK Controller Plugin:MinStackScreenPosY:100
+PLUGIN:UK Controller Plugin:RegionalPressureScreenPosX:100
+PLUGIN:UK Controller Plugin:RegionalPressureScreenPosY:100
+PLUGIN:UK Controller Plugin:SelectedMinStack:tma.MTMA
+PLUGIN:UK Controller Plugin:SelectedRegionalPressures:ASR_LONDON;ASR_SCOTTISH

@@ -1,8 +1,8 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:UK\Data\Sector\UK_2020_05.sct
-SECTORTITLE:UK_2020_05.sct
+SECTORFILE:\..\Data\Sector\UK_2020_09.sct
+SECTORTITLE:UK_2020_09.sct
 ARTCC boundary:EBR08:
 ARTCC boundary:EBR17A:
 ARTCC boundary:EBR17B:
@@ -130,9 +130,7 @@ ARTCC boundary:EGD406C:
 ARTCC boundary:EGD407:
 ARTCC boundary:EGD408:
 ARTCC boundary:EGD410:
-ARTCC boundary:EGD411:
 ARTCC boundary:EGD412:
-ARTCC boundary:EGD441:
 ARTCC boundary:EGD442:
 ARTCC boundary:EGD508:
 ARTCC boundary:EGD509:
@@ -189,9 +187,6 @@ ARTCC boundary:EGD803:
 ARTCC boundary:EGD809C:
 ARTCC boundary:EGD809N:
 ARTCC boundary:EGD809S:
-ARTCC boundary:EGP414:
-ARTCC boundary:EGP425:
-ARTCC boundary:EGP436:
 ARTCC boundary:EGP611:
 ARTCC boundary:EGP813:
 ARTCC boundary:EGR002:
@@ -222,7 +217,6 @@ ARTCC boundary:EGR319:
 ARTCC boundary:EGR321:
 ARTCC boundary:EGR322:
 ARTCC boundary:EGR413:
-ARTCC boundary:EGR421:
 ARTCC boundary:EGR431:
 ARTCC boundary:EGR432:
 ARTCC boundary:EGR444:
@@ -304,13 +298,11 @@ ARTCC low boundary:EGFF Cardiff CTA:
 ARTCC low boundary:EGGD Bristol CTA:
 ARTCC low boundary:EGGP Liverpool CTA:
 ARTCC low boundary:EGGW London Luton CTA:
-ARTCC low boundary:EGGW Luton 3953980:
 ARTCC low boundary:EGGW Luton LFC:
 ARTCC low boundary:EGHA Compton ATZ:
 ARTCC low boundary:EGHC Lands End ATZ:
 ARTCC low boundary:EGHE Scilly Isles/St Mary's ATZ:
 ARTCC low boundary:EGHF Lee-on-Solent ATZ:
-ARTCC low boundary:EGHG Yeovilton MATZ:
 ARTCC low boundary:EGHH Bournemouth CTR:
 ARTCC low boundary:EGHI Southampton CTR:
 ARTCC low boundary:EGHJ Bembridge ATZ:
@@ -1455,7 +1447,7 @@ Free Text:Airspace Bases\2500:freetext
 Free Text:Airspace Bases\2500:freetext
 Free Text:Airspace Bases\2500:freetext
 Free Text:Airspace Bases\3000:freetext
-Free Text:Airspace Bases\3500:freetext
+Free Text:Airspace Bases\3000:freetext
 Free Text:Airspace Bases\3500:freetext
 Free Text:Airspace Bases\3500:freetext
 Free Text:Airspace Bases\3500:freetext
@@ -1697,8 +1689,6 @@ Free Text:Airspace Bases\SFC:freetext
 Free Text:EGAC Airspace Bases\1500':freetext
 Free Text:EGAC Airspace Bases\1500':freetext
 Free Text:EGAC Airspace Bases\2000':freetext
-Free Text:EGAC Airspace Bases\2000':freetext
-Free Text:EGAC Airspace Bases\2000':freetext
 Free Text:EGAE Airspace Bases\1500':freetext
 Free Text:EGAE Airspace Bases\2000':freetext
 Free Text:EGAE Airspace Bases\3000':freetext
@@ -1853,8 +1843,6 @@ Free Text:Solent Airspace Bases\3000':freetext
 Free Text:Solent Airspace Bases\3500':freetext
 Free Text:Solent Airspace Bases\3500':freetext
 Geo:Extended centrelines:
-Low airways:H9:line
-Low airways:H9:name
 Stars:Heathrow Inner CTA:
 Stars:Heathrow RMA Westerlies:
 Stars:Luton RMA:
@@ -1969,9 +1957,9 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:TC
-WINDOWAREA:51.111126:-1.632617:52.802562:3.472168
-PLUGIN:UK Controller Plugin:CountdownScreenPosX:571
-PLUGIN:UK Controller Plugin:CountdownScreenPosY:28
+WINDOWAREA:50.564299:-2.711114:52.255735:2.393671
+PLUGIN:UK Controller Plugin:CountdownScreenPosX:1407
+PLUGIN:UK Controller Plugin:CountdownScreenPosY:24
 PLUGIN:UK Controller Plugin:DisplayCountdown:1
 PLUGIN:UK Controller Plugin:DisplayMinStack:1
 PLUGIN:UK Controller Plugin:DisplayRegionalPressures:1
@@ -1986,10 +1974,10 @@ PLUGIN:UK Controller Plugin:HistoryTrailMaxAltitudeFilter:99999
 PLUGIN:UK Controller Plugin:HistoryTrailMinAltitudeFilter:0
 PLUGIN:UK Controller Plugin:HistoryTrailType:0
 PLUGIN:UK Controller Plugin:holdDisplayVisibility:1
-PLUGIN:UK Controller Plugin:MinStackScreenPosX:731
-PLUGIN:UK Controller Plugin:MinStackScreenPosY:91
-PLUGIN:UK Controller Plugin:RegionalPressureScreenPosX:580
-PLUGIN:UK Controller Plugin:RegionalPressureScreenPosY:72
+PLUGIN:UK Controller Plugin:MinStackScreenPosX:1487
+PLUGIN:UK Controller Plugin:MinStackScreenPosY:70
+PLUGIN:UK Controller Plugin:RegionalPressureScreenPosX:1333
+PLUGIN:UK Controller Plugin:RegionalPressureScreenPosY:68
 PLUGIN:UK Controller Plugin:selectedHoldProfile:0
 PLUGIN:UK Controller Plugin:SelectedMinStack:tma.LTMA;tma.MTMA;tma.STMA
 PLUGIN:UK Controller Plugin:SelectedRegionalPressures:ASR_LONDON;ASR_SCOTTISH

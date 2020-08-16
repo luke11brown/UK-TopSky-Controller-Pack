@@ -1,8 +1,8 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:UK\Data\Sector\UK_2020_05.sct
-SECTORTITLE:UK_2020_05.sct
+SECTORFILE:\..\Data\Sector\UK_2020_09.sct
+SECTORTITLE:UK_2020_09.sct
 ARTCC boundary:EBR08:
 ARTCC boundary:EBR17A:
 ARTCC boundary:EBR17B:
@@ -1548,7 +1548,7 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:TC
-WINDOWAREA:50.997575:-2.039004:52.054171:1.149822
+WINDOWAREA:50.718883:-2.866277:52.369814:2.116264
 PLUGIN:UK Controller Plugin:CountdownScreenPosX:72
 PLUGIN:UK Controller Plugin:CountdownScreenPosY:56
 PLUGIN:UK Controller Plugin:DisplayCountdown:1

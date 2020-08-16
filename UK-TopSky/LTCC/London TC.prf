@@ -38,5 +38,5 @@ Plugins	Plugin0	\..\Data\Plugin\UKControllerPlugin.dll
 Plugins	Plugin0Display0	Standard ES radar screen
 Plugins	Plugin1	\..\Data\Plugin\AfvEuroScopeBridge.dll
 Plugins	Plugin1Display0	Standard ES radar screen
-Plugins	Plugin2	C:\Users\Luke\Documents\GitHub\UK-TopSky-Controller-Pack\UK-TopSky\Data\Plugin\vSMR_1.4.0\vSMR.dll
+Plugins	Plugin2	\..\Data\Plugin\vSMR_1.4.0\vSMR.dll
 Plugins	Plugin2Display0	SMR radar display
