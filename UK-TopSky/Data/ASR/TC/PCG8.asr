@@ -2538,7 +2538,7 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:AC
-WINDOWAREA:51.317862:-0.000153:51.339654:0.065615
+WINDOWAREA:53.563351:-0.384415:53.585870:-0.318647
 PLUGIN:UK Controller Plugin:CountdownScreenPosX:72
 PLUGIN:UK Controller Plugin:CountdownScreenPosY:44
 PLUGIN:UK Controller Plugin:DisplayCountdown:1
@@ -2557,7 +2557,7 @@ PLUGIN:UK Controller Plugin:MinStackScreenPosX:100
 PLUGIN:UK Controller Plugin:MinStackScreenPosY:100
 PLUGIN:vSMR:ActiveProfile:Default
 PLUGIN:vSMR:Afterglow:1
-PLUGIN:vSMR:Airport:EGKB
+PLUGIN:vSMR:Airport:EGNJ
 PLUGIN:vSMR:AppTrailsDots:4
 PLUGIN:vSMR:FontSize:1
 PLUGIN:vSMR:GndTrailsDots:0
