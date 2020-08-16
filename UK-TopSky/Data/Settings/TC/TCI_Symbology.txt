@@ -9,7 +9,7 @@ High airways:name:7895040:3.5:0:0:8
 Fixes:symbol:7895040:1.4:0:0:7
 Fixes:name:7895040:3.2:0:0:2
 Sids:line:8568320:3.0:0:0:7
-Stars:line:7895040:3.0:0:0:7
+Stars:line:7895040:3.0:2:0:7
 ARTCC high boundary:line:7895040:3.0:0:0:7
 ARTCC boundary:line:7895040:3.0:1:0:7
 ARTCC low boundary:line:7895040:3.0:2:0:7
