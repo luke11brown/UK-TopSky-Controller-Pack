@@ -2560,7 +2560,7 @@ PLUGIN:vSMR:Afterglow:1
 PLUGIN:vSMR:Airport:EGGW
 PLUGIN:vSMR:AppTrailsDots:4
 PLUGIN:vSMR:FontSize:1
-PLUGIN:vSMR:GndTrailsDots:4
+PLUGIN:vSMR:GndTrailsDots:0
 PLUGIN:vSMR:PredictedLine:0
 PLUGIN:vSMR:SRW1BottomRightX:600
 PLUGIN:vSMR:SRW1BottomRightY:500
