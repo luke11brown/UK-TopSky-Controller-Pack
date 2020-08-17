@@ -1,7 +1,7 @@
 SIL
 m_Visible:1
 m_X:0
-m_Y:46
+m_Y:43
 m_LineNumber:0
 m_Resizable:1
 m_OrderingColumn:7
@@ -26,7 +26,7 @@ END
 SEL
 m_Visible:1
 m_X:0
-m_Y:209
+m_Y:146
 m_LineNumber:0
 m_Resizable:1
 m_OrderingColumn:6

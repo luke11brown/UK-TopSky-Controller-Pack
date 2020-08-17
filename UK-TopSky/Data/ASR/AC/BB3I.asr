@@ -1764,6 +1764,7 @@ SHOWSB:0
 BELOW:200
 ABOVE:0
 LEADER:5
+LEADER:3
 SHOWLEADER:0
 TURNLEADER:0
 HISTORY_DOTS:0
@@ -1773,8 +1774,8 @@ DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:AC-TopSky
 WINDOWAREA:48.015052:-15.257968:55.915790:9.523522
-PLUGIN:UK Controller Plugin:CountdownScreenPosX:72
-PLUGIN:UK Controller Plugin:CountdownScreenPosY:44
+PLUGIN:UK Controller Plugin:CountdownScreenPosX:1419
+PLUGIN:UK Controller Plugin:CountdownScreenPosY:40
 PLUGIN:UK Controller Plugin:DisplayCountdown:1
 PLUGIN:UK Controller Plugin:DisplayMinStack:1
 PLUGIN:UK Controller Plugin:DisplayRegionalPressures:1
@@ -1789,10 +1790,10 @@ PLUGIN:UK Controller Plugin:HistoryTrailMaxAltitudeFilter:99999
 PLUGIN:UK Controller Plugin:HistoryTrailMinAltitudeFilter:99999
 PLUGIN:UK Controller Plugin:HistoryTrailType:0
 PLUGIN:UK Controller Plugin:holdDisplayVisibility:1
-PLUGIN:UK Controller Plugin:MinStackScreenPosX:100
-PLUGIN:UK Controller Plugin:MinStackScreenPosY:100
-PLUGIN:UK Controller Plugin:RegionalPressureScreenPosX:100
-PLUGIN:UK Controller Plugin:RegionalPressureScreenPosY:100
+PLUGIN:UK Controller Plugin:MinStackScreenPosX:1348
+PLUGIN:UK Controller Plugin:MinStackScreenPosY:83
+PLUGIN:UK Controller Plugin:RegionalPressureScreenPosX:1450
+PLUGIN:UK Controller Plugin:RegionalPressureScreenPosY:82
 PLUGIN:UK Controller Plugin:selectedHoldProfile:0
 PLUGIN:UK Controller Plugin:SelectedMinStack:tma.LTMA;tma.MTMA
 PLUGIN:UK Controller Plugin:SelectedRegionalPressures:ASR_LONDON
