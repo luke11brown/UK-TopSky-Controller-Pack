@@ -161,8 +161,6 @@ Departure
 .hhthred Cleared to $arr routing THRED. Climb to altitude 4000ft, squawk $squawk
 
 .adsn Hold Position, after departure, standard noise abatement then turn $1 heading $2 degrees, climb to altitude $temp
-.adsnl Cleared to $arr after departure, standard noise abatement then turn left on track $1, climb to $temp, squawk $squawk, QNH $altim(dep)
-.adsnr Cleared to $arr after departure, standard noise abatement then turn right on track $1, climb to $temp, squawk $squawk, QNH $altim(dep)
 .adsa Hold Position, after departure fly straight ahead to altitude $temp then turn $1 heading $1 degrees
 .ad Hold Position, after departure $1
 
