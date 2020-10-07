@@ -1,7 +1,7 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORTITLE:UK_2020_10.sct
+SECTORTITLE:UK_2020_11.sct
 ARTCC boundary:EGR002:
 ARTCC boundary:EGR063:
 ARTCC boundary:EGR095:
@@ -2330,7 +2330,7 @@ Fixes:XOBRO:name
 Fixes:XOBRO:symbol
 Fixes:XUMAT:name
 Fixes:XUMAT:symbol
-Regions:Uncontrolled airspace:polygon
+Regions:Uncontrolled airspace (Grey):polygon
 Stars:Luton RMA:
 Stars:Stansted RMA:
 VORs:ABB:name

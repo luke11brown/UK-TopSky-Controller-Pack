@@ -1,7 +1,7 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORTITLE:UK_2020_10.sct
+SECTORTITLE:UK_2020_11.sct
 ARTCC boundary:EGR002:
 ARTCC boundary:EGR063:
 ARTCC boundary:EGR095:
@@ -1667,7 +1667,7 @@ Free Text:Solent Airspace Bases\2500':freetext
 Free Text:Solent Airspace Bases\3000':freetext
 Free Text:Solent Airspace Bases\3500':freetext
 Free Text:Solent Airspace Bases\3500':freetext
-Regions:Uncontrolled airspace:polygon
+Regions:Uncontrolled airspace (Grey):polygon
 Stars:Luton RMA:
 Stars:Stansted RMA:
 VORs:ABB:symbol

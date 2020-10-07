@@ -1,7 +1,7 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORTITLE:UK_2020_10.sct
+SECTORTITLE:UK_2020_11.sct
 ARTCC boundary:EGP611:
 ARTCC boundary:EGP813:
 ARTCC boundary:EGR002:
@@ -1263,7 +1263,7 @@ Fixes:XIDIL:symbol
 Fixes:XIGAR:symbol
 Fixes:XOBRO:symbol
 Fixes:XUMAT:symbol
-Regions:Uncontrolled airspace:polygon
+Regions:Uncontrolled airspace (Grey):polygon
 VORs:ABB:symbol
 VORs:ADN:symbol
 VORs:AMB:symbol
