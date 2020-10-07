@@ -62,7 +62,7 @@
         "arrival": {
             "definition": [
                 ["callsign"],
-                ["sate", "actype"]
+                ["uk_stand", "actype"]
             ],
             "background_color": {
                 "r": 170,
@@ -272,7 +272,7 @@
             "g": 255,
             "b": 0
         },
- "departure": {
+		"departure": {
             "definition": [
                 ["callsign"]
             ],
@@ -297,7 +297,7 @@
         "arrival": {
             "definition": [
                 ["callsign"],
-                ["gate"]
+                ["uk_stand"]
             ],
             "background_color": {
                 "r": 170,
@@ -530,7 +530,7 @@
         "arrival": {
             "definition": [
                 ["callsign"],
-                ["gate"]
+                ["uk_stand"]
             ],
             "background_color": {
                 "r": 68,
