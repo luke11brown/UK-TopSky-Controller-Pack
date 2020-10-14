@@ -1,5 +1,116 @@
 //Some AMAs elevated in cycle 2020/11 - 8 October 2020
-// Correction - 2 blocks omitted east of Inverness
+//Airport SMAAs to be added
+
+//EGAA SMAA
+
+
+//EGAC SMAA
+
+
+//EGBB SMAA
+
+
+//EGBJ SMAA
+
+
+//EGCC SMAA
+
+
+//EGCN SMAA
+
+
+//EGFF SMAA
+
+
+//EGGD SMAA
+
+
+//EGGP SMAA
+
+
+//EGGW SMAA
+
+
+//EGHH SMAA
+
+
+//EGHI SMAA
+
+
+//EGHQ SMAA
+
+
+//EGJA SMAA
+
+
+//EGJB SMAA
+
+
+//EGJJ SMAA
+
+
+//EGKB SMAA
+
+
+//EGKK SMAA
+
+
+//EGLC SMAA
+
+
+//EGLF SMAA
+
+
+//EGLL SMAA
+
+
+//EGMC SMAA
+
+
+//EGNR SMAA
+
+
+//EGNS SMAA
+
+
+//EGNT SMAA
+
+
+//EGNV SMAA
+
+
+//EGNX SMAA
+
+
+//EGPB SMAA
+
+
+//EGPD SMAA
+
+
+//EGPF SMAA
+
+
+//EGPH SMAA
+
+
+//EGPK SMAA
+
+
+//EGSC SMAA
+
+
+//EGSH SMAA
+
+
+//EGSS SMAA
+
+
+//EGTE SMAA
+
+
+//EGTK SMAA
+
 
 //S:Lat:Lon:TRdl1:TRdl2:Rmin:Rmax:MSA
 
