@@ -89,7 +89,7 @@ Color_System_Calculated_TOD=170,231,197
 //Color_Text_Notes
 Color_TopShadow=155,158,159
 Color_Track_Default=210,210,210
-Color_Track_Highlight=0,165,219
+Color_Track_Highlight=255,255,255
 Color_Trough=97,99,97
 Color_TSA_Active=93,138,195
 Color_TSA_Border_Highlight=200,53,18
@@ -102,8 +102,8 @@ Color_Urgency_FL=225,25,25
 Color_VAW_Profile=152,202,172
 Color_VAW_Sector_Limits=145,95,30
 Color_VAW_Track_Position=219,219,219
-Color_Warning=255,255,255
-Color_Warning_FL=240,225,41
+Color_Warning=255,100,50
+Color_Warning_FL=255,100,50
 Color_WM_Active_Fg=255,254,254
 Color_WM_Bg=100,100,105
 Color_WM_Border=88,95,99
@@ -155,6 +155,7 @@ WXR_Gain=85
 WXR_Echo_dBZ_Hi=20
 WXR_Echo_dBZ_Med=15
 WXR_Echo_dBZ_Lo=12 
+MSAW_Buffer_IFR=100
 
 [_CTR]
 Window_CPDLC_Current=1,0,40
