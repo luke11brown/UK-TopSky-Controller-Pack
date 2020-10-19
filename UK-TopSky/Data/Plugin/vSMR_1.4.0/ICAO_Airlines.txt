@@ -23,7 +23,7 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2005/1  ++  Valid period: 23/APR/2020 - 20/MAY/2020  ++  File-Publisher: Langen - EDGG                           ;
+;  AIRAC 2009/1  ++  Valid period: 13/AUG/2020 - 09/SEP/2020  ++  File-Publisher: Langen - EDGG                           ;
 ;=========================================================================================================================;
 AAB	ABELAG AVIATION	ABELAG	BELGIUM
 AAC	ARMY AIR CORPS	ARMYAIR	UNITED KINGDOM
@@ -5854,6 +5854,7 @@ VCI	CI-TOURS	CI-TOURS	COTE D' IVOIRE
 VCJ	AVCON JET MALTA LTD	OBELIX	MALTA
 VCM	VOLARE AIR CHARTER COMPANY (EL PASO, TX)	CARMEN	UNITED STATES
 VCN	EXECUJET EUROPE AG	AVCON	SWITZERLAND
+VCP	FLIGHTDECK2SIM	ALPACA	UNITED KINGDOM
 VCR	CRUISER LINHAS AEREAS LTDA.	VOE CRUISER	BRAZIL
 VCT	VISCOUNT AIR SERVICE, INC. (TUCSON, AZ)	VISCOUNT AIR	UNITED STATES
 VCV	CONVIASA	CONVIASA	VENEZUELA

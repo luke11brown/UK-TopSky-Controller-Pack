@@ -12,7 +12,7 @@ Settings	SettingsfileSIL	\..\Data\Settings\Lists.txt
 Settings	SettingsfileSYMBOLOGY	\..\Data\Settings\AC\ACI_Symbology.txt
 Settings	SettingsfileTAGS	\..\Data\Settings\Tags.txt
 Settings	SettingsfileVCCS	\..\Data\Settings\VCCS.txt
-Settings	sector	\..\Data\Sector\UK_2020_09.sct
+Settings	sector	\..\Data\Sector\UK_2020_11.sct
 Settings	alias	\..\Data\Alias\AC_Alias.txt
 Settings	AtisFolder	\..\Data\ATIS\ATIS.txt
 Settings	SectorFileProviderDescriptor	\..\Data\Sector\VATUK_SectorFileProviderDescriptor.txt
@@ -42,3 +42,8 @@ Plugins	Plugin2	\..\Data\Plugin\TopSky\TopSky.dll
 Plugins	Plugin2Display0	Standard ES radar screen
 Plugins	Plugin3	\..\Data\Plugin\vSMR_1.4.0\vSMR.dll
 Plugins	Plugin3Display0	SMR radar display
+Settings	airlines	\..\Data\DataFiles\ICAO_Airlines.txt
+Settings	airports	\..\Data\DataFiles\ICAO_Airports.txt
+Settings	aircraft	\..\Data\DataFiles\ICAO_Aircraft.txt
+Settings	airportcoords	\..\Data\DataFiles\icao.txt
+Settings	airways	\..\Data\DataFiles\airway.txt

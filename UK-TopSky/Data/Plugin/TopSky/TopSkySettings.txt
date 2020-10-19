@@ -89,7 +89,7 @@ Color_System_Calculated_TOD=170,231,197
 //Color_Text_Notes
 Color_TopShadow=155,158,159
 Color_Track_Default=210,210,210
-Color_Track_Highlight=0,165,219
+Color_Track_Highlight=255,255,255
 Color_Trough=97,99,97
 Color_TSA_Active=93,138,195
 Color_TSA_Border_Highlight=200,53,18
@@ -102,8 +102,8 @@ Color_Urgency_FL=225,25,25
 Color_VAW_Profile=152,202,172
 Color_VAW_Sector_Limits=145,95,30
 Color_VAW_Track_Position=219,219,219
-Color_Warning=255,255,255
-Color_Warning_FL=240,225,41
+Color_Warning=255,100,50
+Color_Warning_FL=255,100,50
 Color_WM_Active_Fg=255,254,254
 Color_WM_Bg=100,100,105
 Color_WM_Border=88,95,99
@@ -117,7 +117,6 @@ Track_HistoryDots=6
 Airspace_C_Flag=
 Airspace_No_DUPE_Codes=7000,2000,2620,0440,7045,4255,3737,3660,2677,5060,7366,6170,4607,4572,0010,7350,3727,4517,0013,7013,3636,5077,4572,5050,0011,7011,7012,0012
 AIW=1
-HTTP_NOTAM_Area_Sched_Text=ACTIVATED
 CPDLC_MinLevel=195
 CPDLC_Transfer=1
 CPDLC_CFL=1
@@ -155,6 +154,7 @@ WXR_Gain=85
 WXR_Echo_dBZ_Hi=20
 WXR_Echo_dBZ_Med=15
 WXR_Echo_dBZ_Lo=12 
+MSAW_Buffer_IFR=100
 
 [_CTR]
 Window_CPDLC_Current=1,0,40

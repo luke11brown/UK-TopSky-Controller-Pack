@@ -1,7 +1,8 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORTITLE:UK_2020_09.sct
+SECTORFILE:
+SECTORTITLE:UK_2020_11.sct
 ARTCC boundary:EGR002:
 ARTCC boundary:EGR063:
 ARTCC boundary:EGR095:
@@ -29,7 +30,6 @@ ARTCC boundary:EGR319:
 ARTCC boundary:EGR321:
 ARTCC boundary:EGR322:
 ARTCC boundary:EGR413:
-ARTCC boundary:EGR421:
 ARTCC boundary:EGR431:
 ARTCC boundary:EGR432:
 ARTCC boundary:EGR444:
@@ -138,6 +138,8 @@ ARTCC low boundary:EGNS Isle of Man CTA:
 ARTCC low boundary:EGNT Newcastle CTA:
 ARTCC low boundary:EGNV Teeside CTA:
 ARTCC low boundary:EGNX East Midlands CTA:
+ARTCC low boundary:EGOE Ternhill MATZ:
+ARTCC low boundary:EGOQ Mona MATZ:
 ARTCC low boundary:EGOS Shawbury MATZ:
 ARTCC low boundary:EGOV Valley MATZ:
 ARTCC low boundary:EGPB Sumburgh CTA:
@@ -163,9 +165,13 @@ ARTCC low boundary:EGVO Odiham MATZ:
 ARTCC low boundary:EGVP Middle Wallop MATZ:
 ARTCC low boundary:EGXC Coningsby MATZ:
 ARTCC low boundary:EGXE Leeming MATZ:
+ARTCC low boundary:EGXP Scampton MATZ:
 ARTCC low boundary:EGXT Wittering MATZ:
+ARTCC low boundary:EGXU Linton MATZ:
 ARTCC low boundary:EGXW Waddington MATZ:
+ARTCC low boundary:EGXZ Topcliffe MATZ:
 ARTCC low boundary:EGYD Cranwell MATZ:
+ARTCC low boundary:EGYE Barkston Heath MATZ:
 ARTCC low boundary:EGYM Marham MATZ:
 ARTCC low boundary:EIDL Donegal CTA:
 ARTCC low boundary:EIDW Dublin CTA:
@@ -1254,7 +1260,7 @@ Fixes:XIDIL:symbol
 Fixes:XIGAR:symbol
 Fixes:XOBRO:symbol
 Fixes:XUMAT:symbol
-Regions:Uncontrolled airspace:polygon
+Regions:Uncontrolled airspace (Grey):polygon
 Stars:Luton RMA:
 Stars:Stansted RMA:
 VORs:ABB:symbol

@@ -8,8 +8,7 @@ ASE	Aegean Seagull	Seagull
 AWG	AirWeGo	Airwego
 AZT	Aztec Airways	Aztec
 BFA	Butterfly	Butterfly
-CAG	Contrail	Contrail
-CSA	CSA Czech Airlines	CSA
+CAG	Capitalconnect	Capcon
 CSB	Cassubian	Cassubian
 CXD	Candan Air	Candan
 CYB	Cyber Air	Cyber
