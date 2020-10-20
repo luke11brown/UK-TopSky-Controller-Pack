@@ -6,6 +6,7 @@ COLORDEF:CAS:28:28:28
 
 //N601(D) (Evenings/Weekends Only)
 MAP:N601(D) (Evenings/Weekends Only)
+FOLDER:Conditional Airspace
 STYLE:solid:1
 FONTSIZE:*:.75
 COLOR:CAS
