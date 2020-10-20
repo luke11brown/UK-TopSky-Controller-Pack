@@ -6,6 +6,7 @@ COLORDEF:CAS:28:28:28
 
 //N864 Conditional (Weekend) Airspace
 MAP:N864 Weekend Only
+FOLDER:Conditional Airspace
 COLOR:CAS
 STYLE:solid:1
 FONTSIZE:*:.75
