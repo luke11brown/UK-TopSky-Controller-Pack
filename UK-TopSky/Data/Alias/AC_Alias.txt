@@ -21,6 +21,13 @@ Noobs
 .notme I don't cover that airspace, for a description of the airspace I do cover, visit http://vatsim.uk/area-sectors
 
 ========================================================
+UKFIS Explanations
+========================================================
+.basic You have left controlled airspace. You are now receiving a basic service which offers you maximum autonomy. Airspace activity and traffic information is subject to controller workload. The avoidance of other traffic remains your responsibility.
+.traffic You have left controlled airspace. You are now receiving a traffic service which provides detailed traffic information on specific conflicting aircraft. I will not provide you with deconfliction advice regardless of your meteorological conditions.
+.deconfliction You have left controlled airspace. You are now receiving a deconfliction service which provides detailed traffic information on specific conflicting aircraft AND advice on how to avoid that aircraft. You remain responsible for collision avoidance; you can opt not to follow the advice.
+
+========================================================
 Holding
 ========================================================
 .hlam Lambourne (LAM) hold details: Inbound course 263. Left hand turns. 1 minute legs, max speed 220 kts. (1.5 minute legs, max speed 240 kts at FL150 and above).

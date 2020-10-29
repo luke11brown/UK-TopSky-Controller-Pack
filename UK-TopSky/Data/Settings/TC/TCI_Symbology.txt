@@ -1,44 +1,44 @@
 SYMBOLOGY
 SYMBOLSIZE
-Airports:symbol:7895040:1.4:0:0:7
+Airports:symbol:11842560:1.4:0:0:7
 Airports:name:7895040:3.2:0:0:2
-Low airways:line:7895040:2.5:2:0:7
+Low airways:line:11842560:2.5:2:0:7
 Low airways:name:7895040:2.5:0:0:8
 High airways:line:7895040:3.5:2:0:7
 High airways:name:7895040:3.5:0:0:8
-Fixes:symbol:7895040:1.4:0:0:7
+Fixes:symbol:11842560:1.4:0:0:7
 Fixes:name:7895040:3.2:0:0:2
 Sids:line:8568320:3.0:0:0:7
-Stars:line:7895040:3.0:2:0:7
-ARTCC high boundary:line:7895040:3.0:0:0:7
-ARTCC boundary:line:7895040:3.0:1:0:7
-ARTCC low boundary:line:7895040:3.0:2:0:7
-Geo:line:7895040:3.0:0:0:7
-VORs:symbol:7895040:1.4:0:0:7
+Stars:line:11842560:3.0:0:0:7
+ARTCC high boundary:line:11842560:3.0:0:0:7
+ARTCC boundary:line:11842560:3.0:1:0:7
+ARTCC low boundary:line:11842560:3.0:2:0:7
+Geo:line:11842560:3.0:0:0:7
+VORs:symbol:11842560:1.4:0:0:7
 VORs:name:7895040:3.2:0:0:2
 VORs:frequency:7895040:3.5:0:0:2
-NDBs:symbol:7895040:1.4:0:0:7
+NDBs:symbol:11842560:1.4:0:0:7
 NDBs:name:7895040:3.2:0:0:2
 NDBs:frequency:7895040:3.5:0:0:0
 Runways:centerline:7895040:3.5:0:0:7
-Runways:extended centerline:7895040:3.5:0:0:7
+Runways:extended centerline:11842560:3.5:0:0:7
 Runways:name:7895040:3.5:0:0:7
-Datablock:non concerned:5308280:3.2:0:0:7
-Datablock:notified:5308280:3.2:0:0:7
-Datablock:assumed:5308280:3.2:0:0:7
-Datablock:transfer to me initiated:701695:3.2:0:0:7
-Datablock:redundant:5308280:3.2:0:0:7
+Datablock:non concerned:8257460:3.2:0:0:7
+Datablock:notified:8257460:3.2:0:0:7
+Datablock:assumed:8257460:3.2:0:0:7
+Datablock:transfer to me initiated:55551:3.2:0:0:7
+Datablock:redundant:8257460:3.2:0:0:7
 Datablock:information:14418140:3.2:0:0:7
 Datablock:even flight level:40960:3.2:0:0:7
 Datablock:odd flight level:40960:3.2:0:0:7
 Datablock:arrivals:42495:3.2:0:0:7
 Datablock:departures:16711680:3.2:0:0:7
-Datablock:user 1:701695:3.2:0:0:7
+Datablock:user 1:55551:3.2:0:0:7
 Datablock:user 2:14418140:3.2:0:0:7
-Datablock:user 3:701695:3.2:0:0:7
-Datablock:user 4:701695:3.2:0:0:7
-Datablock:user 5:701695:3.2:0:0:7
-Datablock:user 6:701695:3.2:0:0:7
+Datablock:user 3:55551:3.2:0:0:7
+Datablock:user 4:55551:3.2:0:0:7
+Datablock:user 5:55551:3.2:0:0:7
+Datablock:user 6:55551:3.2:0:0:7
 Datablock:emergency:3302655:3.2:0:0:7
 Datablock:ongoing requested by me:8404992:3.5:0:0:7
 Datablock:ongoing requested by other:16744448:3.5:0:0:7
@@ -49,7 +49,7 @@ Datablock:active item background:16777215:3.2:0:0:7
 Datablock:arrival background:1395241:3.5:0:0:7
 Datablock:departure background:4264977:3.5:0:0:7
 Datablock:AC list background:0:5.0:0:0:7
-Datablock:AC list selected background:3156005:2.8:0:0:7
+Datablock:AC list selected background:5263440:2.8:0:0:7
 Datablock:dimmed at conflict detection:5263440:3.5:0:0:7
 Datablock:SCTA warning rectangle:3302655:3.5:0:0:7
 Datablock:SCTA CFL used warning rectangle:10855845:3.5:0:0:7
@@ -77,7 +77,7 @@ Other:conflict warning:65535:3.5:0:2:7
 Other:conflict detected:255:3.5:0:2:7
 Other:route annotation:10855845:3.0:0:1:8
 Other:freetext:7895040:3.2:0:0:7
-Other:range rings:8568320:5.0:0:0:2
+Other:range rings:9223680:5.0:0:0:2
 Other:off antenna range rings:255:5.0:0:0:2
 Other:plane range rings:8568320:5.0:0:0:2
 Other:manual taxi line:16777215:5.0:0:3:2
