@@ -30,7 +30,6 @@ ARTCC boundary:EGR319:
 ARTCC boundary:EGR321:
 ARTCC boundary:EGR322:
 ARTCC boundary:EGR413:
-ARTCC boundary:EGR421:
 ARTCC boundary:EGR431:
 ARTCC boundary:EGR432:
 ARTCC boundary:EGR444:
@@ -64,6 +63,8 @@ ARTCC high boundary:EBBU Brussels FIR:
 ARTCC high boundary:EGGX Shanwick FIR:
 ARTCC high boundary:EGPX Scottish FIR:
 ARTCC high boundary:EGTT London FIR:
+ARTCC high boundary:EHAA ABNED Delegated:
+ARTCC high boundary:EHAA AMRIV Delegated:
 ARTCC high boundary:EHAA Amsterdam FIR:
 ARTCC high boundary:EHAA IBNOS Delegated:
 ARTCC high boundary:EHAA SASKI Delegated:
@@ -96,11 +97,7 @@ ARTCC low boundary:EGBB Birmingham CTA:
 ARTCC low boundary:EGBJ Gloucestershire ATZ:
 ARTCC low boundary:EGCC Manchester CTA:
 ARTCC low boundary:EGCN Doncaster Sheffield CTA:
-ARTCC low boundary:EGDM Boscombe Down MATZ:
 ARTCC low boundary:EGDN Netheravon ATZ:
-ARTCC low boundary:EGDO Predannack MATZ:
-ARTCC low boundary:EGDR Culdrose MATZ:
-ARTCC low boundary:EGDY Yeovilton MATZ:
 ARTCC low boundary:EGFF Cardiff CTA:
 ARTCC low boundary:EGGD Bristol CTA:
 ARTCC low boundary:EGGP Liverpool CTA:
@@ -137,41 +134,18 @@ ARTCC low boundary:EGNS Isle of Man CTA:
 ARTCC low boundary:EGNT Newcastle CTA:
 ARTCC low boundary:EGNV Teeside CTA:
 ARTCC low boundary:EGNX East Midlands CTA:
-ARTCC low boundary:EGOE Ternhill MATZ:
-ARTCC low boundary:EGOQ Mona MATZ:
-ARTCC low boundary:EGOS Shawbury MATZ:
-ARTCC low boundary:EGOV Valley MATZ:
 ARTCC low boundary:EGPB Sumburgh CTA:
 ARTCC low boundary:EGPD Aberdeen CTA:
 ARTCC low boundary:EGPF Glasgow CTA:
 ARTCC low boundary:EGPH Edinburgh CTA:
 ARTCC low boundary:EGPK Prestwick CTA:
-ARTCC low boundary:EGQK Kinloss MATZ:
-ARTCC low boundary:EGQL Leuchars MATZ:
-ARTCC low boundary:EGQS Lossiemouth MATZ:
 ARTCC low boundary:EGSH Norwich CTA:
 ARTCC low boundary:EGSS London Stansted CTA:
 ARTCC low boundary:EGSY St Athan LFA:
 ARTCC low boundary:EGTF Fairoaks LFA:
 ARTCC low boundary:EGTO Rochester ATZ:
-ARTCC low boundary:EGUB Benson MATZ:
-ARTCC low boundary:EGUL Lakenheath MATZ:
-ARTCC low boundary:EGUN Mildenhall MATZ:
-ARTCC low boundary:EGUW Wattisham MATZ:
 ARTCC low boundary:EGVF Fleetlands ATZ:
 ARTCC low boundary:EGVN Brize Norton CTR:
-ARTCC low boundary:EGVO Odiham MATZ:
-ARTCC low boundary:EGVP Middle Wallop MATZ:
-ARTCC low boundary:EGXC Coningsby MATZ:
-ARTCC low boundary:EGXE Leeming MATZ:
-ARTCC low boundary:EGXP Scampton MATZ:
-ARTCC low boundary:EGXT Wittering MATZ:
-ARTCC low boundary:EGXU Linton MATZ:
-ARTCC low boundary:EGXW Waddington MATZ:
-ARTCC low boundary:EGXZ Topcliffe MATZ:
-ARTCC low boundary:EGYD Cranwell MATZ:
-ARTCC low boundary:EGYE Barkston Heath MATZ:
-ARTCC low boundary:EGYM Marham MATZ:
 ARTCC low boundary:EIDL Donegal CTA:
 ARTCC low boundary:EIDW Dublin CTA:
 ARTCC low boundary:LFAT Le Touquet CTR:
@@ -180,11 +154,7 @@ ARTCC low boundary:LFQQ Lille CTR:
 ARTCC low boundary:LFRC Cherbourg CTR:
 ARTCC low boundary:LFRG Deauville CTR:
 ARTCC low boundary:LFRK Caen Carpiquet CTR:
-ARTCC low boundary:LONDONRDR:
-ARTCC low boundary:SHMOCKLINE:
 ARTCC low boundary:Solent CTA:
-ARTCC low boundary:STATHANLF:
-ARTCC low boundary:XYLINE:
 Fixes:ABAPO:symbol
 Fixes:ABBOT:symbol
 Fixes:ABDAL:symbol
@@ -1269,6 +1239,8 @@ Free Text:Airspace Bases\2500:freetext
 Free Text:Airspace Bases\2500:freetext
 Free Text:Airspace Bases\2500:freetext
 Free Text:Airspace Bases\3000:freetext
+Free Text:Airspace Bases\3000:freetext
+Free Text:Airspace Bases\3500:freetext
 Free Text:Airspace Bases\3500:freetext
 Free Text:Airspace Bases\3500:freetext
 Free Text:Airspace Bases\3500:freetext
@@ -1284,9 +1256,6 @@ Free Text:Airspace Bases\3500:freetext
 Free Text:Airspace Bases\3500:freetext
 Free Text:Airspace Bases\4000:freetext
 Free Text:Airspace Bases\4000:freetext
-Free Text:Airspace Bases\4500:freetext
-Free Text:Airspace Bases\4500:freetext
-Free Text:Airspace Bases\4500:freetext
 Free Text:Airspace Bases\4500:freetext
 Free Text:Airspace Bases\4500:freetext
 Free Text:Airspace Bases\4500:freetext
@@ -1347,7 +1316,7 @@ Free Text:Airspace Bases\FL105:freetext
 Free Text:Airspace Bases\FL105:freetext
 Free Text:Airspace Bases\FL105:freetext
 Free Text:Airspace Bases\FL105:freetext
-Free Text:Airspace Bases\FL115:freetext
+Free Text:Airspace Bases\FL105:freetext
 Free Text:Airspace Bases\FL115:freetext
 Free Text:Airspace Bases\FL115:freetext
 Free Text:Airspace Bases\FL115:freetext
@@ -1365,9 +1334,6 @@ Free Text:Airspace Bases\FL125:freetext
 Free Text:Airspace Bases\FL125:freetext
 Free Text:Airspace Bases\FL125:freetext
 Free Text:Airspace Bases\FL125:freetext
-Free Text:Airspace Bases\FL125:freetext
-Free Text:Airspace Bases\FL125:freetext
-Free Text:Airspace Bases\FL135:freetext
 Free Text:Airspace Bases\FL135:freetext
 Free Text:Airspace Bases\FL135:freetext
 Free Text:Airspace Bases\FL135:freetext
@@ -1388,8 +1354,6 @@ Free Text:Airspace Bases\FL145:freetext
 Free Text:Airspace Bases\FL145:freetext
 Free Text:Airspace Bases\FL145:freetext
 Free Text:Airspace Bases\FL145*C:freetext
-Free Text:Airspace Bases\FL155:freetext
-Free Text:Airspace Bases\FL155:freetext
 Free Text:Airspace Bases\FL155:freetext
 Free Text:Airspace Bases\FL155:freetext
 Free Text:Airspace Bases\FL155:freetext
@@ -1422,7 +1386,6 @@ Free Text:Airspace Bases\FL55:freetext
 Free Text:Airspace Bases\FL55:freetext
 Free Text:Airspace Bases\FL55:freetext
 Free Text:Airspace Bases\FL55:freetext
-Free Text:Airspace Bases\FL55:freetext
 Free Text:Airspace Bases\FL65:freetext
 Free Text:Airspace Bases\FL65:freetext
 Free Text:Airspace Bases\FL65:freetext
@@ -1438,10 +1401,6 @@ Free Text:Airspace Bases\FL65:freetext
 Free Text:Airspace Bases\FL65:freetext
 Free Text:Airspace Bases\FL65:freetext
 Free Text:Airspace Bases\FL65:freetext
-Free Text:Airspace Bases\FL65:freetext
-Free Text:Airspace Bases\FL65:freetext
-Free Text:Airspace Bases\FL65:freetext
-Free Text:Airspace Bases\FL65:freetext
 Free Text:Airspace Bases\FL75:freetext
 Free Text:Airspace Bases\FL75:freetext
 Free Text:Airspace Bases\FL75:freetext
@@ -1470,10 +1429,6 @@ Free Text:Airspace Bases\FL75:freetext
 Free Text:Airspace Bases\FL75:freetext
 Free Text:Airspace Bases\FL75:freetext
 Free Text:Airspace Bases\FL75:freetext
-Free Text:Airspace Bases\FL75:freetext
-Free Text:Airspace Bases\FL75:freetext
-Free Text:Airspace Bases\FL75:freetext
-Free Text:Airspace Bases\FL85:freetext
 Free Text:Airspace Bases\FL85:freetext
 Free Text:Airspace Bases\FL85:freetext
 Free Text:Airspace Bases\FL85:freetext
@@ -1768,7 +1723,7 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:AC-TopSky
-WINDOWAREA:48.015052:-15.257968:55.915790:9.523522
+WINDOWAREA:49.599687:-6.613146:53.119670:3.537353
 PLUGIN:UK Controller Plugin:CountdownScreenPosX:1419
 PLUGIN:UK Controller Plugin:CountdownScreenPosY:40
 PLUGIN:UK Controller Plugin:DisplayCountdown:1
