@@ -1,3 +1,7 @@
+# Note to Visitors
+The contents of this repository have now been integrated into the VATSIM UK COntroller Pack. Please visit https://github.com/VATSIM-UK/uk-controller-pack
+Support is provided on the VATSIM UK Discord
+
 # UK TopSky Controller Pack
 
 A controller pack for VATSIM UK Enroute Controllers includidng TopSky, vSMR and UK controller plugins
@@ -16,7 +20,7 @@ UK Controller Plugin - https://github.com/VATSIM-UK/uk-controller-plugin
 
 - Realistic rendition of the iFACTS system in use at LACC
 - Set up for users with 1 or 2 screens available
-- TopSky plugin including MTCD, CPDLC/PDC (Hoppie), Primary Radra Raw Video, Automatic selection of RMA's dependant upon runway in use.
+- TopSky plugin including MTCD, CPDLC/PDC (Hoppie), Primary Radar Raw Video, Automatic selection of RMA's dependant upon runway in use.
 
 ### Prerequisites
 
